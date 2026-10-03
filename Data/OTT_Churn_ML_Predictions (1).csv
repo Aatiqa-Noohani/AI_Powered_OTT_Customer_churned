@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Region,Subscription_Plan,Monthly_Charges,Payment_Method,Auto_Renewal,Contract_Length,Average_Watch_Hours_Per_Week,Devices_Registered,Login_Frequency_Per_Week,Download_For_Offline_Count,Customer_Support_Calls,Streaming_Quality_Issues,Days_Since_Last_Login,Churn_Probability,Churn_Probability_Pct,Predicted_Churn,Churn_Prediction,Risk_Level,Expected_Monthly_Revenue_Risk
+CUST_3359,33,Male,Europe,Premium,20.0,Direct Debit,Yes,Annual,8.4,7,7,9,0,2,20,0.15185052,15.19,0,Active,Low,3.037010431289673
+CUST_4813,32,Female,North America,Standard,13.89,Credit Card,Yes,Monthly,6.2,4,2,8,1,2,25,0.313774,31.38,0,Active,Medium,4.358320716619492
+CUST_5443,37,Male,Middle East & Africa,Premium,19.33,Credit Card,Yes,Monthly,24.6,4,12,18,0,3,9,0.052850436,5.29,0,Active,Low,1.021598935984075
+CUST_4745,19,Female,Asia Pacific,Basic,8.28,PayPal,Yes,Annual,8.4,3,8,7,1,2,20,0.06985008,6.99,0,Active,Low,0.5783586600422859
+CUST_2276,55,Female,Asia Pacific,Basic,8.61,Credit Card,Yes,Monthly,2.2,3,2,5,1,1,20,0.1205021,12.05,0,Active,Low,1.037523075789213
+CUST_5026,30,Male,North America,Premium,20.56,Direct Debit,Yes,Monthly,7.3,6,5,4,1,0,24,0.2983371,29.83,0,Active,Low,6.133810815811157
+CUST_3754,39,Male,Europe,Basic,7.86,Digital Wallet,Yes,Annual,5.2,4,4,11,0,0,27,0.08733653,8.73,0,Active,Low,0.6864651475846768
+CUST_2087,35,Female,Europe,Standard,14.42,PayPal,Yes,Monthly,16.5,6,12,9,1,3,25,0.12913667,12.91,0,Active,Low,1.8621507331728935
+CUST_3806,49,Male,Europe,Basic,7.73,Direct Debit,Yes,Monthly,6.9,4,4,4,1,2,27,0.1868788,18.69,0,Active,Low,1.4445731270313265
+CUST_2919,45,Male,Middle East & Africa,Standard,14.12,Direct Debit,Yes,Monthly,10.2,3,6,10,0,2,12,0.06369484,6.37,0,Active,Low,0.8993711712956428
+CUST_4865,39,Female,Middle East & Africa,Premium,19.53,Direct Debit,Yes,Annual,11.6,2,8,8,2,0,6,0.082033955,8.2,0,Active,Low,1.6021231325715781
+CUST_5722,36,Male,Latin America,Standard,13.98,Digital Wallet,Yes,Monthly,7.5,3,2,7,2,1,41,0.31659865,31.66,0,Active,Medium,4.426049180030823
+CUST_4374,31,Female,Asia Pacific,Basic,7.81,PayPal,No,Monthly,14.7,5,10,10,1,0,1,0.006091644,0.61,0,Active,Low,0.04757574007846415
+CUST_5772,31,Other,Middle East & Africa,Standard,14.56,Digital Wallet,Yes,Monthly,3.6,3,2,5,1,1,30,0.47050452,47.05,0,Active,Medium,6.850545845031738
+CUST_1629,23,Female,Latin America,Standard,13.56,Digital Wallet,Yes,Monthly,7.6,1,5,5,0,0,21,0.13691358,13.69,0,Active,Low,1.8565481811761857
+CUST_2071,38,Female,North America,Premium,21.11,PayPal,No,Monthly,4.8,4,3,9,0,1,24,0.5060145,50.6,1,Churned,Medium,10.681966641545296
+CUST_5672,22,Male,Asia Pacific,Basic,8.2,Credit Card,Yes,Monthly,9.3,3,3,8,4,1,27,0.34220213,34.22,0,Active,Medium,2.8060574412345884
+CUST_3593,33,Male,North America,Standard,14.12,Credit Card,Yes,Monthly,3.7,1,3,3,0,0,16,0.22023341,22.02,0,Active,Low,3.109695757627487
+CUST_3131,32,Female,Europe,Basic,7.93,PayPal,Yes,Monthly,7.5,5,7,11,4,3,14,0.18560839,18.56,0,Active,Low,1.471874508857727
+CUST_1997,39,Female,Asia Pacific,Standard,14.38,Direct Debit,Yes,Monthly,5.8,5,5,4,4,1,34,0.26860785,26.86,0,Active,Low,3.862580952644348
+CUST_2203,32,Female,Asia Pacific,Premium,19.22,PayPal,Yes,Monthly,10.5,5,7,7,1,2,22,0.12045468,12.05,0,Active,Low,2.315138881355524
+CUST_4578,40,Female,Middle East & Africa,Basic,8.25,Direct Debit,Yes,Annual,12.4,3,7,9,2,0,13,0.05421142,5.42,0,Active,Low,0.44724420737475157
+CUST_5740,40,Male,North America,Standard,13.51,Credit Card,Yes,Annual,27.4,3,17,19,0,0,0,0.0124673825,1.25,0,Active,Low,0.16843433724716306
+CUST_3409,52,Female,Latin America,Basic,8.53,PayPal,Yes,Monthly,8.7,1,5,6,1,0,9,0.0988029,9.88,0,Active,Low,0.8427887523919343
+CUST_2812,25,Female,Europe,Standard,13.9,PayPal,Yes,Monthly,16.9,5,10,9,0,0,12,0.018502852,1.85,0,Active,Low,0.25718964207917455
+CUST_3547,20,Male,Asia Pacific,Premium,19.48,Direct Debit,No,Annual,6.1,4,8,5,1,1,21,0.13102195,13.1,0,Active,Low,2.5523075211048125
+CUST_2501,25,Female,North America,Standard,13.97,Direct Debit,Yes,Monthly,5.5,4,1,0,0,1,24,0.30328342,30.33,0,Active,Medium,4.236869421899319
+CUST_4707,29,Male,Latin America,Basic,8.42,PayPal,Yes,Annual,7.0,2,6,9,0,4,18,0.12890077,12.89,0,Active,Low,1.0853444528579712
+CUST_4036,53,Female,Europe,Standard,13.61,Credit Card,No,Monthly,28.8,1,17,19,1,1,0,0.06674496,6.67,0,Active,Low,0.908398917093873
+CUST_1362,34,Female,Asia Pacific,Basic,8.29,Credit Card,Yes,Monthly,9.6,2,11,8,1,0,8,0.122098975,12.21,0,Active,Low,1.0122005017846822
+CUST_1684,59,Male,Asia Pacific,Standard,14.15,Credit Card,No,Monthly,7.0,1,3,4,0,0,27,0.481161,48.12,0,Active,Medium,6.8084281265735624
+CUST_1122,18,Male,North America,Standard,13.9,PayPal,Yes,Monthly,6.5,2,4,4,0,0,14,0.08415866,8.42,0,Active,Low,1.169805359840393
+CUST_5199,31,Male,Europe,Basic,7.81,Credit Card,Yes,Monthly,9.7,4,7,7,0,1,12,0.12985396,12.99,0,Active,Low,1.014159457683563
+CUST_5787,18,Male,Asia Pacific,Basic,8.08,Credit Card,Yes,Monthly,8.6,2,5,3,0,2,33,0.2300454,23.0,0,Active,Low,1.8587667763233184
+CUST_1972,37,Female,Asia Pacific,Basic,8.34,Credit Card,Yes,Monthly,8.0,2,7,5,1,1,21,0.30001417,30.0,0,Active,Medium,2.5021181613206864
+CUST_4718,39,Male,North America,Premium,20.0,Direct Debit,Yes,Monthly,6.5,4,5,1,0,4,33,0.6606908,66.07,1,Churned,High,13.213815689086914
+CUST_5800,55,Female,North America,Standard,13.51,Digital Wallet,Yes,Monthly,12.9,5,8,9,1,0,15,0.038883843,3.89,0,Active,Low,0.5253207125514746
+CUST_5418,20,Female,Latin America,Basic,7.99,Credit Card,Yes,Monthly,8.2,4,5,11,1,0,25,0.19108827,19.11,0,Active,Low,1.526795310229063
+CUST_2044,42,Other,Latin America,Standard,14.94,Digital Wallet,Yes,Monthly,10.9,2,6,13,0,1,26,0.36352938,36.35,0,Active,Medium,5.4311289989948275
+CUST_2091,21,Male,Europe,Basic,8.52,PayPal,Yes,Monthly,7.7,5,4,13,2,1,24,0.19967064,19.97,0,Active,Low,1.7011938750743865
+CUST_5116,56,Female,Asia Pacific,Basic,7.99,PayPal,Yes,Monthly,10.5,3,9,12,2,0,23,0.040673416,4.07,0,Active,Low,0.324980594702065
+CUST_1729,29,Male,Asia Pacific,Standard,14.03,Credit Card,No,Monthly,4.0,2,5,9,0,3,30,0.394666,39.47,0,Active,Medium,5.537163787782192
+CUST_3117,21,Female,Latin America,Basic,8.37,Direct Debit,No,Monthly,21.2,2,12,16,2,1,10,0.02112215,2.11,0,Active,Low,0.176792396530509
+CUST_4624,37,Male,Latin America,Premium,19.73,Direct Debit,No,Monthly,16.0,4,13,6,0,0,0,0.005813022,0.58,0,Active,Low,0.11469092690385878
+CUST_2225,26,Male,Latin America,Basic,8.6,Direct Debit,No,Monthly,5.1,2,4,7,0,0,20,0.12036053,12.04,0,Active,Low,1.0351005658507346
+CUST_3578,39,Female,Middle East & Africa,Premium,20.5,Credit Card,Yes,Monthly,16.7,2,8,10,0,1,18,0.16468908,16.47,0,Active,Low,3.376126118004322
+CUST_5723,42,Male,Europe,Basic,8.22,PayPal,Yes,Monthly,7.7,3,3,4,1,2,24,0.3154867,31.55,0,Active,Medium,2.5933006685972217
+CUST_2981,33,Female,Middle East & Africa,Premium,20.16,Credit Card,Yes,Monthly,7.3,1,3,8,0,1,26,0.37071154,37.07,0,Active,Medium,7.473544549942017
+CUST_3832,39,Male,Europe,Standard,13.79,Credit Card,Yes,Annual,8.7,2,6,7,1,1,31,0.28485805,28.49,0,Active,Low,3.928192481398582
+CUST_4684,32,Male,Europe,Standard,13.83,Credit Card,Yes,Annual,7.7,2,8,7,1,0,11,0.10348365,10.35,0,Active,Low,1.4311788395047187
+CUST_4706,38,Female,Asia Pacific,Basic,7.95,PayPal,Yes,Monthly,6.7,2,8,6,0,1,11,0.11165386,11.17,0,Active,Low,0.8876481626182795
+CUST_3011,18,Female,Latin America,Basic,8.34,Direct Debit,No,Monthly,6.6,4,4,12,2,2,21,0.2622296,26.22,0,Active,Low,2.186994794011116
+CUST_1341,33,Other,Europe,Basic,8.2,Credit Card,Yes,Monthly,6.5,2,4,5,2,2,32,0.48337758,48.34,0,Active,Medium,3.963696122169494
+CUST_3319,36,Other,Middle East & Africa,Standard,13.92,Credit Card,Yes,Annual,4.0,2,5,0,1,3,29,0.3833251,38.33,0,Active,Medium,5.335885391235352
+CUST_1335,40,Male,North America,Basic,7.84,Direct Debit,Yes,Monthly,7.0,3,5,7,0,1,19,0.10548547,10.55,0,Active,Low,0.8270060777664184
+CUST_5242,41,Male,North America,Premium,20.13,Credit Card,Yes,Annual,15.1,3,12,10,1,1,14,0.03651609,3.65,0,Active,Low,0.7350688714161515
+CUST_2460,48,Female,Europe,Standard,14.43,Credit Card,No,Monthly,12.5,3,11,11,1,2,21,0.06605953,6.61,0,Active,Low,0.9532390147447586
+CUST_2544,42,Male,Europe,Basic,7.05,Direct Debit,Yes,Monthly,15.1,2,8,13,0,1,9,0.10069344,10.07,0,Active,Low,0.7098887655884027
+CUST_2265,41,Female,Europe,Standard,13.97,PayPal,Yes,Monthly,7.4,4,6,6,2,2,22,0.22598226,22.6,0,Active,Low,3.1569722236692908
+CUST_3710,44,Male,Middle East & Africa,Standard,13.58,Credit Card,Yes,Annual,1.8,5,2,4,0,2,34,0.46157414,46.16,0,Active,Medium,6.268176783323288
+CUST_5810,46,Male,North America,Standard,13.88,Direct Debit,Yes,Monthly,6.9,4,7,0,0,2,26,0.2089057,20.89,0,Active,Low,2.8996110725402833
+CUST_1647,40,Female,Asia Pacific,Basic,7.5,Direct Debit,Yes,Monthly,4.3,3,4,1,3,0,37,0.514738,51.47,1,Churned,Medium,3.8605351746082306
+CUST_5629,39,Female,Middle East & Africa,Basic,7.93,Credit Card,Yes,Annual,3.6,7,8,5,1,2,9,0.16579583,16.58,0,Active,Low,1.3147609546780585
+CUST_4970,20,Male,North America,Basic,8.13,Credit Card,Yes,Monthly,9.9,3,7,9,1,0,26,0.14354187,14.35,0,Active,Low,1.166995423436165
+CUST_5764,23,Other,Asia Pacific,Standard,13.79,Carrier Billing,Yes,Monthly,6.5,2,5,1,1,1,38,0.18812132,18.81,0,Active,Low,2.594192986488342
+CUST_1324,18,Male,Europe,Standard,13.66,PayPal,Yes,Monthly,11.2,2,4,11,1,0,26,0.20539686,20.54,0,Active,Low,2.8057211190462112
+CUST_1635,34,Female,Asia Pacific,Basic,7.77,Credit Card,No,Monthly,10.2,1,7,5,1,1,5,0.090064466,9.01,0,Active,Low,0.6998009008169174
+CUST_4047,26,Female,Europe,Standard,13.43,Direct Debit,No,Monthly,7.0,4,4,3,0,0,23,0.1554183,15.54,0,Active,Low,2.08726785749197
+CUST_4538,47,Male,North America,Standard,14.32,Credit Card,Yes,Monthly,9.2,1,4,6,0,3,35,0.5525733,55.26,1,Churned,Medium,7.912849988937378
+CUST_2291,37,Male,Asia Pacific,Standard,14.72,Digital Wallet,No,Monthly,12.6,1,6,10,3,2,37,0.34415695,34.42,0,Active,Medium,5.065990314483643
+CUST_4802,47,Male,Europe,Basic,8.04,Carrier Billing,Yes,Monthly,6.1,3,8,7,0,3,33,0.19439107,19.44,0,Active,Low,1.5629042172431944
+CUST_5552,26,Male,Europe,Standard,13.68,Direct Debit,No,Monthly,18.3,4,10,10,1,0,13,0.012585263,1.26,0,Active,Low,0.17216639466583727
+CUST_2263,38,Male,Middle East & Africa,Basic,8.11,Direct Debit,Yes,Monthly,5.0,6,4,9,0,1,31,0.15928252,15.93,0,Active,Low,1.2917812405526636
+CUST_1047,47,Male,Latin America,Standard,14.38,Direct Debit,Yes,Monthly,16.6,3,15,12,3,0,12,0.024576666,2.46,0,Active,Low,0.35341245468705895
+CUST_4715,43,Male,Europe,Premium,19.92,Digital Wallet,Yes,Annual,9.1,4,5,9,1,2,27,0.39882526,39.88,0,Active,Medium,7.9445991396904
+CUST_3909,40,Male,Europe,Premium,20.2,Credit Card,Yes,Annual,6.0,4,4,11,1,2,16,0.25668746,25.67,0,Active,Low,5.185086739063263
+CUST_5695,25,Male,Europe,Standard,13.82,Credit Card,No,Monthly,21.7,2,10,12,2,2,24,0.04946303,4.95,0,Active,Low,0.683579073920846
+CUST_1964,29,Male,Asia Pacific,Basic,7.99,PayPal,No,Monthly,4.5,2,4,6,0,1,39,0.46524605,46.52,0,Active,Medium,3.717315951883793
+CUST_4741,18,Female,North America,Basic,8.0,Direct Debit,Yes,Annual,17.9,4,13,10,2,1,24,0.008453333,0.85,0,Active,Low,0.06762666255235672
+CUST_4681,42,Male,Asia Pacific,Standard,13.82,Credit Card,Yes,Monthly,7.3,2,4,2,2,2,18,0.29178512,29.18,0,Active,Low,4.032470371723175
+CUST_3926,30,Female,Asia Pacific,Standard,13.51,PayPal,Yes,Monthly,16.1,6,12,8,1,1,0,0.018130137,1.81,0,Active,Low,0.24493814619258045
+CUST_5847,38,Male,Middle East & Africa,Basic,7.37,Direct Debit,Yes,Annual,8.0,4,7,3,0,1,27,0.12149329,12.15,0,Active,Low,0.895405528023839
+CUST_5100,41,Female,Europe,Premium,19.29,PayPal,No,Monthly,11.2,4,7,6,1,0,13,0.21778587,21.78,0,Active,Low,4.2010893371701234
+CUST_1495,21,Female,Middle East & Africa,Premium,19.77,PayPal,Yes,Annual,11.8,5,6,14,1,1,25,0.18180308,18.18,0,Active,Low,3.5942468413710595
+CUST_2041,25,Male,Europe,Basic,7.89,Direct Debit,Yes,Monthly,18.2,3,11,7,2,1,10,0.012113554,1.21,0,Active,Low,0.09557594424113632
+CUST_5043,50,Male,Asia Pacific,Basic,8.2,Carrier Billing,Yes,Annual,6.9,4,7,12,2,2,24,0.09914717,9.91,0,Active,Low,0.8130068004131317
+CUST_3882,36,Male,Europe,Basic,8.04,Direct Debit,Yes,Monthly,10.6,5,6,12,0,0,21,0.052687988,5.27,0,Active,Low,0.42361142098903654
+CUST_5643,35,Female,North America,Standard,13.86,PayPal,Yes,Monthly,21.2,3,15,11,2,1,1,0.013649835,1.36,0,Active,Low,0.1891867165826261
+CUST_1522,51,Male,North America,Standard,13.88,Digital Wallet,Yes,Monthly,11.8,6,7,9,1,2,31,0.124364935,12.44,0,Active,Low,1.726185295879841
+CUST_4914,19,Male,Europe,Standard,14.34,Credit Card,Yes,Monthly,9.2,5,3,6,0,0,16,0.11476853,11.48,0,Active,Low,1.645780683606863
+CUST_5369,25,Female,North America,Basic,7.93,Direct Debit,No,Monthly,10.9,3,6,13,2,1,24,0.2853524,28.54,0,Active,Low,2.2628446024656297
+CUST_4454,23,Female,Asia Pacific,Basic,8.77,Credit Card,Yes,Monthly,9.9,4,5,9,2,0,22,0.1020029,10.2,0,Active,Low,0.8945654011517763
+CUST_5522,20,Female,North America,Standard,13.69,Direct Debit,Yes,Annual,19.5,2,9,10,2,1,7,0.021643288,2.16,0,Active,Low,0.296296618655324
+CUST_1485,41,Male,Asia Pacific,Basic,7.88,PayPal,Yes,Monthly,6.0,1,4,6,1,2,28,0.24353908,24.35,0,Active,Low,1.9190879505872727
+CUST_5819,34,Male,Asia Pacific,Standard,14.32,Credit Card,Yes,Annual,5.9,4,5,1,3,2,39,0.14664768,14.66,0,Active,Low,2.0999947321414947
+CUST_5497,47,Female,Asia Pacific,Standard,14.13,PayPal,Yes,Monthly,19.1,4,11,16,0,2,20,0.010771827,1.08,0,Active,Low,0.15220591326244176
+CUST_5317,50,Male,North America,Premium,19.89,Carrier Billing,No,Monthly,7.3,3,4,2,0,1,33,0.51673645,51.67,1,Churned,Medium,10.277887946963311
+CUST_4100,29,Male,Middle East & Africa,Basic,8.26,Digital Wallet,No,Monthly,5.0,6,3,7,2,1,26,0.21339352,21.34,0,Active,Low,1.7626305106282234
+CUST_4362,35,Male,Europe,Basic,7.58,PayPal,Yes,Monthly,14.0,3,10,12,2,1,12,0.022392808,2.24,0,Active,Low,0.16973748106509448
+CUST_4908,36,Female,Europe,Premium,20.56,Credit Card,Yes,Monthly,17.6,4,11,12,0,1,20,0.12050908,12.05,0,Active,Low,2.4776666969060894
+CUST_3262,31,Female,Asia Pacific,Premium,19.51,Direct Debit,Yes,Monthly,6.5,3,5,4,2,0,16,0.20284724,20.28,0,Active,Low,3.957549698352814
+CUST_4365,31,Female,Latin America,Basic,8.51,Credit Card,Yes,Monthly,8.3,5,8,10,0,1,21,0.15242714,15.24,0,Active,Low,1.297154935002327
+CUST_5287,42,Male,Asia Pacific,Premium,20.15,Credit Card,Yes,Monthly,25.5,2,12,15,1,2,8,0.090999,9.1,0,Active,Low,1.8336298454552888
+CUST_2754,44,Male,Asia Pacific,Premium,19.83,Credit Card,No,Monthly,10.8,3,9,10,1,2,13,0.15305305,15.31,0,Active,Low,3.035041887760162
+CUST_2569,36,Male,Europe,Standard,13.99,Direct Debit,Yes,Annual,6.1,4,2,10,0,1,28,0.14781985,14.78,0,Active,Low,2.067999657690525
+CUST_1525,18,Female,Europe,Basic,7.99,PayPal,Yes,Annual,13.7,1,6,15,1,1,23,0.06989276,6.99,0,Active,Low,0.5584431255608797
+CUST_3833,32,Female,North America,Standard,14.35,Carrier Billing,Yes,Monthly,6.3,3,1,4,0,1,28,0.24804457,24.8,0,Active,Low,3.5594395123422147
+CUST_3477,38,Female,Europe,Basic,7.63,Credit Card,No,Monthly,9.4,1,6,2,1,2,23,0.3233178,32.33,0,Active,Medium,2.4669147834181784
+CUST_2216,29,Female,North America,Standard,14.15,Credit Card,Yes,Monthly,2.9,3,4,8,1,0,14,0.16875245,16.88,0,Active,Low,2.3878471218049526
+CUST_2820,32,Female,Middle East & Africa,Standard,13.88,Carrier Billing,Yes,Monthly,7.1,3,5,6,4,1,22,0.21505581,21.51,0,Active,Low,2.9849746209383015
+CUST_5039,26,Female,Latin America,Standard,14.18,PayPal,Yes,Monthly,5.4,2,5,5,1,1,21,0.17298564,17.3,0,Active,Low,2.4529364198446273
+CUST_3122,22,Female,Middle East & Africa,Basic,7.48,Credit Card,Yes,Monthly,2.7,3,4,0,0,1,27,0.43275434,43.28,0,Active,Medium,3.237002446651459
+CUST_3906,18,Male,Latin America,Standard,13.6,Digital Wallet,Yes,Monthly,10.7,3,3,9,0,2,26,0.15852173,15.85,0,Active,Low,2.1558954834938047
+CUST_2604,29,Female,Middle East & Africa,Premium,19.87,Digital Wallet,Yes,Monthly,6.7,3,4,9,1,2,21,0.3259676,32.6,0,Active,Medium,6.476976408362389
+CUST_1802,35,Female,Latin America,Basic,7.8,Credit Card,No,Monthly,9.7,1,4,11,1,2,26,0.36661953,36.66,0,Active,Medium,2.8596323132514954
+CUST_4495,36,Male,Latin America,Basic,8.47,Direct Debit,Yes,Monthly,2.7,4,4,5,1,2,29,0.3873877,38.74,0,Active,Medium,3.2811737591028214
+CUST_5355,30,Female,Asia Pacific,Premium,19.22,Direct Debit,Yes,Monthly,21.5,3,7,13,2,2,16,0.09445193,9.45,0,Active,Low,1.8153660301864145
+CUST_4915,20,Female,Middle East & Africa,Standard,14.11,Credit Card,Yes,Monthly,8.1,4,5,7,0,4,29,0.25115,25.12,0,Active,Low,3.543726669549942
+CUST_3307,46,Male,Europe,Standard,14.2,PayPal,Yes,Monthly,7.2,2,7,2,1,0,10,0.10281881,10.28,0,Active,Low,1.4600270941853521
+CUST_4630,26,Male,North America,Basic,7.98,Credit Card,Yes,Monthly,4.8,4,6,5,2,1,22,0.20196281,20.2,0,Active,Low,1.6116632536053659
+CUST_2883,40,Female,Middle East & Africa,Standard,13.85,Credit Card,Yes,Monthly,13.6,3,8,8,2,1,21,0.10871162,10.87,0,Active,Low,1.5056559737771749
+CUST_5978,26,Female,Latin America,Basic,7.41,Direct Debit,Yes,Monthly,15.8,3,10,10,0,1,12,0.022404183,2.24,0,Active,Low,0.16601499382406473
+CUST_4502,53,Female,North America,Standard,13.3,Direct Debit,Yes,Annual,12.9,4,8,5,0,0,13,0.017785612,1.78,0,Active,Low,0.23654864616692067
+CUST_3767,36,Other,North America,Standard,14.42,PayPal,No,Annual,14.8,3,8,15,1,0,31,0.059524164,5.95,0,Active,Low,0.8583384391665458
+CUST_3111,27,Female,Europe,Standard,13.57,PayPal,Yes,Annual,3.1,3,1,6,2,1,36,0.5073455,50.73,1,Churned,Medium,6.884678402543068
+CUST_1275,35,Male,Latin America,Standard,14.46,Credit Card,Yes,Annual,4.4,1,5,1,2,0,23,0.17857635,17.86,0,Active,Low,2.5822140240669254
+CUST_2895,29,Male,North America,Basic,7.9,PayPal,Yes,Annual,2.6,4,1,1,0,1,21,0.08484538,8.48,0,Active,Low,0.6702784940600396
+CUST_4118,35,Male,North America,Standard,14.7,Direct Debit,Yes,Monthly,17.3,3,11,11,0,1,3,0.01815774,1.82,0,Active,Low,0.26691876612603666
+CUST_2639,42,Male,North America,Basic,7.68,Direct Debit,Yes,Annual,14.7,4,9,10,3,0,5,0.017023098,1.7,0,Active,Low,0.13073739051818847
+CUST_4924,24,Female,Europe,Premium,19.92,PayPal,Yes,Annual,12.3,2,9,5,2,3,27,0.29257944,29.26,0,Active,Low,5.828182489871979
+CUST_1337,33,Male,Europe,Basic,7.74,PayPal,Yes,Monthly,3.9,1,5,5,0,0,36,0.44824272,44.82,0,Active,Medium,3.469398683309555
+CUST_1203,27,Male,Middle East & Africa,Standard,13.77,Carrier Billing,Yes,Monthly,7.6,2,4,5,1,1,23,0.26808906,26.81,0,Active,Low,3.6915863013267516
+CUST_5439,36,Female,Europe,Basic,7.79,Carrier Billing,Yes,Annual,5.5,1,6,4,0,1,20,0.08059122,8.06,0,Active,Low,0.6278055779635906
+CUST_3919,58,Male,Europe,Basic,7.68,Digital Wallet,No,Monthly,8.6,4,5,6,0,3,22,0.2731438,27.31,0,Active,Low,2.097744369506836
+CUST_3289,42,Other,North America,Basic,8.05,Direct Debit,Yes,Monthly,14.7,2,13,9,2,0,3,0.005738299,0.57,0,Active,Low,0.04619330593850464
+CUST_4861,38,Female,Europe,Standard,14.18,Credit Card,Yes,Monthly,6.9,2,7,6,1,1,12,0.2081176,20.81,0,Active,Low,2.9511076283454893
+CUST_4103,38,Female,Asia Pacific,Premium,20.06,Carrier Billing,No,Monthly,10.4,3,7,4,0,0,19,0.15021314,15.02,0,Active,Low,3.0132755336165427
+CUST_3144,38,Male,Asia Pacific,Premium,19.78,Digital Wallet,Yes,Annual,9.3,4,6,10,1,1,19,0.18896137,18.9,0,Active,Low,3.7376559337973596
+CUST_4570,43,Female,North America,Basic,7.53,PayPal,Yes,Annual,6.9,3,3,8,1,2,26,0.2995905,29.96,0,Active,Low,2.2559164515137673
+CUST_5066,21,Male,Europe,Premium,19.69,Credit Card,Yes,Annual,5.0,2,1,5,0,0,34,0.44286868,44.29,0,Active,Medium,8.720084304511548
+CUST_3408,50,Female,Asia Pacific,Basic,7.85,PayPal,Yes,Monthly,2.3,3,2,7,2,1,33,0.2196784,21.97,0,Active,Low,1.7244754552841186
+CUST_2240,18,Female,Asia Pacific,Basic,7.82,Credit Card,Yes,Monthly,2.9,3,3,3,1,1,41,0.2920663,29.21,0,Active,Low,2.2839585119485855
+CUST_2331,21,Female,North America,Standard,13.77,PayPal,No,Monthly,4.4,5,3,12,0,0,19,0.16180806,16.18,0,Active,Low,2.228096967190504
+CUST_5476,29,Female,Latin America,Standard,13.63,Carrier Billing,Yes,Monthly,6.9,2,7,4,0,0,12,0.09560612,9.56,0,Active,Low,1.3031113943457604
+CUST_1058,30,Female,Asia Pacific,Standard,14.08,PayPal,Yes,Annual,6.4,2,7,5,1,2,22,0.093107276,9.31,0,Active,Low,1.3109504413604736
+CUST_3556,24,Male,Latin America,Standard,13.65,Carrier Billing,No,Annual,6.9,1,2,8,1,1,40,0.401151,40.12,0,Active,Medium,5.475711169838905
+CUST_2725,39,Female,Middle East & Africa,Standard,14.07,Direct Debit,No,Annual,4.6,4,6,2,1,3,21,0.2587471,25.87,0,Active,Low,3.6405717086791993
+CUST_4907,46,Female,Europe,Premium,20.14,Credit Card,Yes,Annual,5.6,3,7,8,1,0,18,0.12725846,12.73,0,Active,Low,2.562985478937626
+CUST_4653,32,Female,Asia Pacific,Basic,8.25,Direct Debit,Yes,Annual,1.0,3,2,3,1,0,22,0.17121372,17.12,0,Active,Low,1.4125131592154503
+CUST_1041,18,Male,Latin America,Standard,14.33,Credit Card,Yes,Annual,5.4,1,5,8,1,3,15,0.13536443,13.54,0,Active,Low,1.9397722555696963
+CUST_4202,26,Female,Europe,Premium,19.73,PayPal,Yes,Monthly,11.3,3,8,11,0,0,21,0.19367318,19.37,0,Active,Low,3.821171812862158
+CUST_1725,38,Female,Latin America,Basic,8.12,Credit Card,Yes,Monthly,8.9,4,5,8,0,0,14,0.086495735,8.65,0,Active,Low,0.702345366179943
+CUST_1195,19,Male,Asia Pacific,Basic,7.89,Credit Card,No,Annual,2.8,6,5,0,1,0,18,0.11315503,11.32,0,Active,Low,0.8927931844443082
+CUST_2363,42,Male,Europe,Standard,13.98,Credit Card,Yes,Annual,26.7,2,14,18,2,2,6,0.032962605,3.3,0,Active,Low,0.46081722289323807
+CUST_2461,25,Male,Europe,Standard,14.0,Credit Card,Yes,Monthly,13.9,2,12,12,0,2,14,0.057411347,5.74,0,Active,Low,0.8037588521838188
+CUST_5901,25,Female,Europe,Standard,13.35,PayPal,Yes,Annual,4.4,2,6,9,1,2,20,0.120404,12.04,0,Active,Low,1.607393367961049
+CUST_2074,21,Female,Europe,Premium,19.36,Direct Debit,No,Annual,9.0,7,5,5,0,0,28,0.11009713,11.01,0,Active,Low,2.1314804875850677
+CUST_5033,43,Female,North America,Standard,13.45,Direct Debit,Yes,Annual,8.5,4,8,7,1,0,8,0.12696804,12.7,0,Active,Low,1.7077201522886751
+CUST_2455,32,Male,Middle East & Africa,Basic,7.37,PayPal,Yes,Monthly,10.5,3,7,7,2,0,18,0.08616342,8.62,0,Active,Low,0.6350243796408177
+CUST_5776,41,Female,Asia Pacific,Basic,8.78,Direct Debit,Yes,Monthly,9.8,6,5,7,0,3,2,0.024154188,2.42,0,Active,Low,0.21207377161830662
+CUST_3142,18,Other,Latin America,Standard,14.03,PayPal,Yes,Monthly,5.9,3,3,7,1,3,28,0.26996532,27.0,0,Active,Low,3.787613451182842
+CUST_5511,39,Female,Asia Pacific,Standard,13.97,Direct Debit,No,Monthly,9.9,3,5,14,1,1,40,0.40795198,40.8,0,Active,Medium,5.699089172184467
+CUST_3890,28,Male,Middle East & Africa,Basic,8.08,Credit Card,Yes,Monthly,5.9,5,2,10,2,2,31,0.20682813,20.68,0,Active,Low,1.6711713087558746
+CUST_5805,43,Female,Asia Pacific,Premium,20.39,Carrier Billing,Yes,Monthly,14.5,4,11,12,1,2,13,0.052913856,5.29,0,Active,Low,1.0789135189726948
+CUST_5633,19,Female,Latin America,Basic,7.62,PayPal,Yes,Annual,13.4,2,12,9,0,2,6,0.014658433,1.47,0,Active,Low,0.11169726239517332
+CUST_2318,35,Male,Asia Pacific,Basic,8.29,Credit Card,Yes,Monthly,6.4,3,1,7,1,1,28,0.2014513,20.15,0,Active,Low,1.670031290054321
+CUST_2783,25,Male,Middle East & Africa,Basic,8.85,PayPal,No,Monthly,15.8,3,11,8,1,0,12,0.019169021,1.92,0,Active,Low,0.16964583937078714
+CUST_4552,31,Male,Europe,Standard,14.02,Credit Card,No,Annual,16.6,2,7,11,3,0,30,0.058170993,5.82,0,Active,Low,0.8155573201924562
+CUST_2095,40,Male,Latin America,Standard,13.97,PayPal,Yes,Monthly,19.8,3,7,14,0,3,25,0.0963629,9.64,0,Active,Low,1.3461897648870946
+CUST_4305,43,Female,Asia Pacific,Standard,14.18,Credit Card,Yes,Monthly,13.6,4,8,5,2,1,17,0.07119138,7.12,0,Active,Low,1.009493739157915
+CUST_3979,49,Male,North America,Standard,13.99,PayPal,Yes,Annual,6.6,4,3,6,0,1,21,0.1471178,14.71,0,Active,Low,2.058177931904793
+CUST_2443,29,Female,Europe,Basic,7.9,PayPal,Yes,Monthly,17.0,2,8,12,3,0,10,0.07696761,7.7,0,Active,Low,0.60804413408041
+CUST_1874,46,Male,North America,Standard,14.38,Credit Card,Yes,Monthly,4.5,3,4,8,3,2,35,0.46073794,46.07,0,Active,Medium,6.625411629676819
+CUST_1043,53,Male,Middle East & Africa,Standard,14.28,Digital Wallet,No,Annual,12.3,3,8,2,0,0,12,0.03746533,3.75,0,Active,Low,0.535004915446043
+CUST_3606,24,Female,Asia Pacific,Basic,7.85,Direct Debit,No,Monthly,6.7,3,2,11,1,1,19,0.19557975,19.56,0,Active,Low,1.5353010557591915
+CUST_1770,35,Male,Asia Pacific,Standard,13.43,Credit Card,No,Annual,9.6,2,9,9,2,1,2,0.040657595,4.07,0,Active,Low,0.5460314981639385
+CUST_4192,29,Male,Asia Pacific,Basic,8.56,Digital Wallet,Yes,Monthly,27.5,7,17,13,2,2,6,0.03102382,3.1,0,Active,Low,0.26556390658020973
+CUST_2198,44,Female,Europe,Standard,14.71,Carrier Billing,No,Annual,7.0,5,5,4,0,0,27,0.24300139,24.3,0,Active,Low,3.57455039575696
+CUST_4261,44,Male,Middle East & Africa,Basic,8.52,Digital Wallet,Yes,Annual,7.6,4,4,2,1,1,20,0.16683333,16.68,0,Active,Low,1.4214199393987654
+CUST_1814,45,Male,Middle East & Africa,Standard,13.9,Credit Card,Yes,Annual,14.7,2,7,9,1,1,18,0.033970363,3.4,0,Active,Low,0.472188051789999
+CUST_4546,26,Male,Asia Pacific,Standard,13.97,Credit Card,Yes,Monthly,7.4,5,3,11,0,3,20,0.18770896,18.77,0,Active,Low,2.622294156998396
+CUST_2542,36,Male,Asia Pacific,Basic,7.98,Digital Wallet,Yes,Monthly,7.6,3,5,5,1,1,28,0.18601744,18.6,0,Active,Low,1.4844191613793374
+CUST_3233,29,Female,Europe,Basic,8.34,Credit Card,Yes,Monthly,5.0,2,5,4,3,0,39,0.35117906,35.12,0,Active,Medium,2.928833388090134
+CUST_2344,37,Male,North America,Standard,14.0,Digital Wallet,Yes,Monthly,4.4,2,5,6,0,1,18,0.20228148,20.23,0,Active,Low,2.8319406509399414
+CUST_3816,20,Female,North America,Standard,14.28,Credit Card,Yes,Monthly,6.3,5,2,9,0,2,31,0.2500596,25.01,0,Active,Low,3.5708511543273924
+CUST_1597,31,Female,Europe,Standard,13.62,Credit Card,Yes,Annual,10.3,3,7,9,1,1,28,0.17845048,17.85,0,Active,Low,2.430495539009571
+CUST_4716,18,Female,Latin America,Premium,19.94,Credit Card,Yes,Monthly,12.2,6,7,7,1,1,8,0.110758714,11.08,0,Active,Low,2.2085287646949294
+CUST_4104,38,Female,Middle East & Africa,Standard,13.99,Carrier Billing,Yes,Monthly,7.5,2,8,5,1,2,16,0.22971305,22.97,0,Active,Low,3.213685604631901
+CUST_4067,26,Female,North America,Standard,13.48,Carrier Billing,No,Annual,2.0,5,1,0,1,2,29,0.51744664,51.74,1,Churned,Medium,6.9751806688308715
+CUST_4652,37,Female,Middle East & Africa,Basic,8.22,Carrier Billing,Yes,Monthly,15.4,4,8,12,0,1,20,0.048184436,4.82,0,Active,Low,0.3960760623961687
+CUST_2031,28,Male,Europe,Standard,14.47,PayPal,Yes,Monthly,8.0,3,6,5,0,0,13,0.0802206,8.02,0,Active,Low,1.1607921174913645
+CUST_4266,39,Male,Europe,Basic,7.54,Credit Card,Yes,Monthly,11.2,3,8,9,2,1,15,0.14075746,14.08,0,Active,Low,1.061311221420765
+CUST_2220,19,Other,Europe,Basic,8.34,Credit Card,Yes,Monthly,18.7,3,12,13,1,3,0,0.0066151605,0.66,0,Active,Low,0.05517043855972588
+CUST_1089,44,Male,Europe,Basic,7.6,Credit Card,Yes,Monthly,3.5,2,3,5,0,1,22,0.19327827,19.33,0,Active,Low,1.4689148366451263
+CUST_1833,29,Male,Europe,Standard,12.89,Direct Debit,Yes,Monthly,16.6,4,10,15,1,0,17,0.03645214,3.65,0,Active,Low,0.4698680930957198
+CUST_4473,26,Male,Europe,Standard,13.87,Credit Card,Yes,Monthly,3.9,2,4,4,1,2,30,0.28409484,28.41,0,Active,Low,3.9403954347968098
+CUST_4050,42,Female,Europe,Basic,7.31,Credit Card,Yes,Monthly,11.4,3,5,6,0,1,26,0.22268184,22.27,0,Active,Low,1.6278042159974575
+CUST_2813,27,Female,Latin America,Standard,14.14,Carrier Billing,Yes,Annual,5.0,2,2,3,0,1,22,0.111514956,11.15,0,Active,Low,1.5768214744329454
+CUST_1861,49,Male,Latin America,Standard,14.39,Credit Card,Yes,Monthly,11.0,5,7,11,2,1,16,0.07546507,7.55,0,Active,Low,1.085942331701517
+CUST_5690,40,Male,Europe,Standard,14.21,Digital Wallet,Yes,Annual,3.7,2,4,7,3,0,25,0.2595706,25.96,0,Active,Low,3.688498206138611
+CUST_4746,31,Male,Asia Pacific,Standard,13.6,PayPal,Yes,Annual,5.2,5,6,3,1,1,20,0.09101968,9.1,0,Active,Low,1.237867683172226
+CUST_2984,21,Female,North America,Basic,8.53,PayPal,No,Monthly,4.2,3,5,6,0,2,28,0.31248575,31.25,0,Active,Medium,2.6655034857988356
+CUST_3353,32,Male,Europe,Basic,8.36,Direct Debit,Yes,Monthly,4.4,3,2,7,0,1,16,0.19082858,19.08,0,Active,Low,1.595326901078224
+CUST_4398,41,Female,North America,Basic,7.64,Carrier Billing,Yes,Annual,9.3,3,3,8,0,0,36,0.33593825,33.59,0,Active,Medium,2.566568192243576
+CUST_5243,26,Female,Latin America,Standard,13.3,Direct Debit,Yes,Monthly,5.1,1,2,11,0,0,10,0.15951148,15.95,0,Active,Low,2.1215026408433917
+CUST_2928,26,Female,North America,Standard,14.37,Direct Debit,Yes,Monthly,10.9,2,10,7,1,1,25,0.13450897,13.45,0,Active,Low,1.932893861532211
+CUST_2500,18,Female,Middle East & Africa,Standard,14.1,PayPal,No,Annual,6.0,4,6,10,1,1,16,0.098834515,9.88,0,Active,Low,1.393566656112671
+CUST_5802,25,Female,Middle East & Africa,Basic,7.93,Carrier Billing,Yes,Monthly,4.2,4,1,0,0,0,18,0.2818972,28.19,0,Active,Low,2.2354446947574615
+CUST_2431,40,Male,Asia Pacific,Premium,19.48,Digital Wallet,No,Monthly,6.4,4,3,5,3,0,24,0.5201043,52.01,1,Churned,Medium,10.13163155078888
+CUST_1834,42,Female,Asia Pacific,Standard,14.12,Credit Card,No,Annual,6.5,3,5,2,1,0,25,0.25712407,25.71,0,Active,Low,3.6305918169021605
+CUST_5883,29,Male,Europe,Standard,12.91,Credit Card,No,Monthly,12.5,3,8,8,2,0,13,0.1321279,13.21,0,Active,Low,1.7057711367309094
+CUST_1152,33,Male,Europe,Premium,20.4,PayPal,No,Monthly,7.9,2,10,6,0,1,15,0.3032528,30.33,0,Active,Medium,6.186356842517853
+CUST_5147,31,Male,Europe,Basic,7.62,Credit Card,Yes,Monthly,4.4,2,1,6,1,1,40,0.7019939,70.2,1,Churned,High,5.349193385839462
+CUST_1820,49,Male,Europe,Basic,7.78,Digital Wallet,No,Monthly,8.4,2,6,12,0,2,22,0.1706825,17.07,0,Active,Low,1.3279098871350288
+CUST_4485,21,Male,Europe,Standard,13.81,Direct Debit,Yes,Annual,1.8,3,1,3,0,0,29,0.18658058,18.66,0,Active,Low,2.5766778574883937
+CUST_3907,18,Female,North America,Premium,20.74,Credit Card,No,Annual,9.8,3,5,6,4,3,23,0.5302818,53.03,1,Churned,Medium,10.99804416179657
+CUST_4619,36,Male,Latin America,Basic,8.69,Credit Card,No,Annual,10.1,4,8,8,1,1,27,0.12692419,12.69,0,Active,Low,1.1029711845517158
+CUST_4246,38,Male,Europe,Standard,14.47,Credit Card,Yes,Monthly,15.5,4,10,10,0,0,14,0.035895757,3.59,0,Active,Low,0.5194116092473269
+CUST_4826,23,Female,Asia Pacific,Standard,13.78,Credit Card,Yes,Annual,11.4,2,10,11,1,0,13,0.08404434,8.4,0,Active,Low,1.1581309676170348
+CUST_5061,37,Male,Middle East & Africa,Premium,19.58,Direct Debit,Yes,Monthly,16.8,2,9,8,0,0,24,0.102537125,10.25,0,Active,Low,2.007676914334297
+CUST_4039,33,Male,Latin America,Basic,8.03,PayPal,Yes,Monthly,16.2,3,12,12,0,1,11,0.0150057515,1.5,0,Active,Low,0.12049618464894592
+CUST_2277,45,Male,Europe,Basic,8.72,Direct Debit,Yes,Annual,17.4,3,12,14,0,0,3,0.003238385,0.32,0,Active,Low,0.028238717876374723
+CUST_4180,33,Male,North America,Standard,14.52,Credit Card,Yes,Monthly,3.9,4,3,0,1,2,42,0.6026598,60.27,1,Churned,High,8.750620608329772
+CUST_5613,44,Female,North America,Standard,13.99,Direct Debit,No,Monthly,4.7,4,7,4,4,0,12,0.2306138,23.06,0,Active,Low,3.2262870326638224
+CUST_4483,35,Male,Asia Pacific,Premium,19.89,PayPal,No,Monthly,9.4,2,6,4,1,1,29,0.49759075,49.76,0,Active,Medium,9.897080026566982
+CUST_5257,22,Female,Asia Pacific,Basic,7.93,Credit Card,Yes,Monthly,4.9,4,4,6,2,2,17,0.19088118,19.09,0,Active,Low,1.5136877398192883
+CUST_4790,31,Female,Europe,Standard,13.85,Credit Card,Yes,Monthly,5.9,1,1,4,1,1,13,0.24968149,24.97,0,Active,Low,3.4580886043608188
+CUST_4749,46,Female,Latin America,Basic,7.58,PayPal,Yes,Annual,15.9,2,9,18,1,2,21,0.029882027,2.99,0,Active,Low,0.2265057634189725
+CUST_2463,27,Male,North America,Basic,7.69,Credit Card,Yes,Monthly,2.4,4,3,7,0,1,30,0.28694367,28.69,0,Active,Low,2.2065968537330627
+CUST_1256,43,Female,Asia Pacific,Standard,13.8,Digital Wallet,Yes,Monthly,6.7,4,7,6,1,3,24,0.44341174,44.34,0,Active,Medium,6.119081979990006
+CUST_5124,51,Female,North America,Standard,14.03,PayPal,Yes,Annual,4.7,2,4,2,1,3,34,0.4713055,47.13,0,Active,Medium,6.612416018247604
+CUST_2910,25,Female,Asia Pacific,Premium,19.48,Carrier Billing,Yes,Monthly,17.4,6,11,18,1,2,23,0.055988718,5.6,0,Active,Low,1.0906602232158185
+CUST_1825,28,Female,Europe,Premium,20.0,Digital Wallet,No,Annual,11.6,1,4,3,1,2,32,0.24469142,24.47,0,Active,Low,4.893828332424164
+CUST_5704,40,Male,Middle East & Africa,Standard,14.25,Carrier Billing,Yes,Monthly,8.0,4,4,0,2,0,20,0.22168036,22.17,0,Active,Low,3.1589451022446156
+CUST_5756,18,Female,North America,Standard,14.18,Digital Wallet,Yes,Annual,3.9,5,4,6,1,0,18,0.14561512,14.56,0,Active,Low,2.0648223415017126
+CUST_1975,45,Female,North America,Basic,7.48,Credit Card,No,Monthly,6.2,4,4,6,2,0,19,0.18568984,18.57,0,Active,Low,1.3889599788188935
+CUST_1895,34,Female,North America,Standard,14.38,PayPal,No,Monthly,7.1,3,4,5,0,2,26,0.39905122,39.91,0,Active,Medium,5.738356532454491
+CUST_3541,47,Female,North America,Standard,13.55,Credit Card,Yes,Monthly,3.1,2,2,3,0,1,13,0.24106266,24.11,0,Active,Low,3.2663989894092085
+CUST_3212,30,Female,Latin America,Standard,13.62,PayPal,No,Annual,7.3,5,4,8,1,0,22,0.17413227,17.41,0,Active,Low,2.3716815528273583
+CUST_4136,25,Male,North America,Standard,13.69,Digital Wallet,No,Monthly,3.5,2,6,2,0,0,12,0.24274144,24.27,0,Active,Low,3.323130255639553
+CUST_5363,30,Male,Latin America,Standard,14.2,PayPal,Yes,Monthly,9.9,3,4,13,1,1,13,0.14146794,14.15,0,Active,Low,2.0088448017835616
+CUST_1543,34,Female,Latin America,Premium,19.57,PayPal,No,Annual,20.6,2,12,11,1,1,12,0.023586877,2.36,0,Active,Low,0.4615951768308878
+CUST_1426,35,Male,North America,Premium,20.52,Digital Wallet,No,Monthly,14.5,3,7,17,1,3,22,0.49874076,49.87,0,Active,Medium,10.234160445928573
+CUST_3530,42,Male,Asia Pacific,Standard,13.02,Digital Wallet,Yes,Monthly,6.7,4,7,13,1,1,10,0.15190865,15.19,0,Active,Low,1.9778506359457968
+CUST_5977,21,Female,Middle East & Africa,Standard,13.87,Direct Debit,Yes,Monthly,10.1,2,7,7,2,1,23,0.11111752,11.11,0,Active,Low,1.5411999946087598
+CUST_4056,33,Male,North America,Standard,14.37,Credit Card,Yes,Annual,4.5,4,6,2,0,0,12,0.141254,14.13,0,Active,Low,2.029819878190756
+CUST_4608,21,Female,North America,Basic,7.95,Direct Debit,Yes,Monthly,6.1,3,5,7,3,1,25,0.10664229,10.66,0,Active,Low,0.8478062130510807
+CUST_3305,46,Female,North America,Standard,14.08,Credit Card,Yes,Annual,10.5,2,6,13,0,0,16,0.083999544,8.4,0,Active,Low,1.1827135848999024
+CUST_4820,25,Female,Asia Pacific,Premium,20.41,PayPal,Yes,Monthly,5.9,6,7,3,4,1,17,0.2709038,27.09,0,Active,Low,5.529146475493908
+CUST_4680,30,Male,Asia Pacific,Basic,7.94,PayPal,Yes,Monthly,9.6,4,5,9,0,0,20,0.08305372,8.31,0,Active,Low,0.6594465604424476
+CUST_4697,34,Female,Latin America,Basic,8.14,Digital Wallet,Yes,Annual,6.7,2,3,2,1,2,29,0.16925792,16.93,0,Active,Low,1.377759501039982
+CUST_1163,36,Other,Latin America,Basic,7.7,Credit Card,Yes,Monthly,4.4,5,4,2,0,1,28,0.31648535,31.65,0,Active,Medium,2.4369371592998506
+CUST_5829,46,Male,Latin America,Premium,19.92,Credit Card,Yes,Monthly,5.1,3,5,4,3,0,25,0.373847,37.38,0,Active,Medium,7.44703239440918
+CUST_2636,39,Female,Asia Pacific,Standard,13.32,Credit Card,No,Annual,4.6,2,4,3,2,1,30,0.5317601,53.18,1,Churned,Medium,7.0830444860458375
+CUST_2502,38,Female,North America,Premium,19.85,Digital Wallet,Yes,Monthly,3.4,5,1,6,0,0,30,0.59259546,59.26,1,Churned,Medium,11.76301984190941
+CUST_3139,32,Male,Latin America,Standard,14.16,Direct Debit,Yes,Annual,18.7,4,11,14,5,1,23,0.03013546,3.01,0,Active,Low,0.426718116402626
+CUST_1491,34,Female,North America,Standard,14.61,Credit Card,No,Annual,8.3,2,6,8,3,1,27,0.30940628,30.94,0,Active,Medium,4.520425758361816
+CUST_1481,28,Female,Middle East & Africa,Standard,13.94,Credit Card,Yes,Annual,6.8,3,5,7,1,0,12,0.15520997,15.52,0,Active,Low,2.163627029955387
+CUST_4617,20,Male,North America,Standard,13.9,Direct Debit,Yes,Monthly,8.2,3,7,7,2,1,24,0.1072184,10.72,0,Active,Low,1.4903357550501823
+CUST_3290,24,Female,Middle East & Africa,Basic,7.51,Digital Wallet,Yes,Monthly,16.5,6,10,15,2,0,7,0.014926767,1.49,0,Active,Low,0.11210001999512315
+CUST_2151,27,Female,Asia Pacific,Basic,7.22,PayPal,Yes,Annual,5.3,1,3,5,0,0,20,0.10072391,10.07,0,Active,Low,0.7272266110777854
+CUST_5682,18,Male,Asia Pacific,Basic,8.03,Digital Wallet,No,Annual,17.1,4,8,9,1,2,12,0.031389676,3.14,0,Active,Low,0.2520590985566377
+CUST_2102,40,Male,Europe,Basic,7.73,PayPal,Yes,Monthly,14.9,3,10,15,1,0,11,0.026425023,2.64,0,Active,Low,0.2042654249444604
+CUST_1731,18,Female,Asia Pacific,Basic,8.15,Direct Debit,Yes,Monthly,12.0,2,5,9,1,1,24,0.12874614,12.87,0,Active,Low,1.0492810167372226
+CUST_4828,30,Female,Europe,Basic,7.91,Credit Card,Yes,Monthly,8.1,2,9,3,1,3,26,0.3176249,31.76,0,Active,Medium,2.5124129334092142
+CUST_4265,28,Female,Europe,Basic,8.33,PayPal,No,Annual,9.0,4,6,5,3,1,27,0.25507736,25.51,0,Active,Low,2.1247944259643554
+CUST_3964,43,Male,Asia Pacific,Standard,13.92,PayPal,Yes,Annual,4.7,5,5,8,0,4,25,0.20280696,20.28,0,Active,Low,2.823072946071625
+CUST_4152,30,Male,North America,Standard,14.17,Credit Card,Yes,Monthly,8.4,4,5,7,0,3,21,0.24298725,24.3,0,Active,Low,3.4431292662024497
+CUST_2729,38,Female,Middle East & Africa,Basic,7.97,Credit Card,Yes,Monthly,3.5,3,3,4,3,2,24,0.4062772,40.63,0,Active,Medium,3.2380293598771095
+CUST_5322,33,Male,North America,Standard,14.08,PayPal,Yes,Monthly,7.1,3,1,2,0,2,33,0.25980154,25.98,0,Active,Low,3.6580056381225585
+CUST_1204,24,Female,Latin America,Basic,8.02,Direct Debit,Yes,Annual,6.4,2,8,4,1,1,18,0.063122995,6.31,0,Active,Low,0.5062464214861393
+CUST_2709,38,Male,Asia Pacific,Premium,20.09,Digital Wallet,Yes,Monthly,8.8,2,5,7,0,1,31,0.26506123,26.51,0,Active,Low,5.325080099999904
+CUST_2199,25,Male,Europe,Basic,7.68,Digital Wallet,Yes,Monthly,8.1,2,5,10,0,1,14,0.121446066,12.14,0,Active,Low,0.932705783843994
+CUST_5148,34,Female,North America,Standard,14.17,Credit Card,Yes,Monthly,8.1,2,7,4,2,1,34,0.3198631,31.99,0,Active,Medium,4.532460279762745
+CUST_4164,23,Female,Middle East & Africa,Standard,14.25,Digital Wallet,Yes,Annual,2.8,4,1,3,0,2,42,0.42895782,42.9,0,Active,Medium,6.1126489341259
+CUST_4403,39,Male,Asia Pacific,Standard,13.91,PayPal,Yes,Annual,19.8,3,14,17,0,0,4,0.0061592734,0.62,0,Active,Low,0.0856754935765639
+CUST_2868,33,Male,Middle East & Africa,Basic,7.88,Digital Wallet,Yes,Annual,6.8,3,2,2,0,2,36,0.23072986,23.07,0,Active,Low,1.8181513208150863
+CUST_4695,29,Male,North America,Standard,13.64,Credit Card,Yes,Annual,9.5,3,8,11,1,1,16,0.07263963,7.26,0,Active,Low,0.9908045428991318
+CUST_1691,18,Female,Europe,Basic,8.06,PayPal,Yes,Monthly,3.4,2,7,7,3,0,29,0.18876076,18.88,0,Active,Low,1.5214117050170899
+CUST_3877,41,Male,Latin America,Basic,7.89,Direct Debit,Yes,Monthly,16.4,6,11,12,1,2,18,0.025921207,2.59,0,Active,Low,0.20451832260936498
+CUST_1233,27,Female,Middle East & Africa,Premium,19.91,Credit Card,Yes,Monthly,9.6,5,7,8,0,0,17,0.1820028,18.2,0,Active,Low,3.623675702661276
+CUST_4882,35,Female,Asia Pacific,Premium,20.49,Digital Wallet,Yes,Monthly,15.7,4,10,7,1,0,13,0.0619735,6.2,0,Active,Low,1.2698370354250073
+CUST_4151,41,Female,Asia Pacific,Basic,8.04,Direct Debit,Yes,Monthly,8.4,4,7,8,1,0,8,0.06710506,6.71,0,Active,Low,0.5395247009396552
+CUST_3586,29,Female,Latin America,Standard,14.03,Direct Debit,Yes,Monthly,4.5,2,3,2,1,1,31,0.29588786,29.59,0,Active,Low,4.151306643188
+CUST_5717,26,Female,North America,Basic,7.96,Credit Card,Yes,Monthly,14.7,4,9,10,1,1,29,0.073950656,7.4,0,Active,Low,0.5886472198367119
+CUST_3689,47,Female,Latin America,Basic,8.08,Credit Card,No,Monthly,19.8,4,11,20,1,1,0,0.0036989124,0.37,0,Active,Low,0.029887212589383125
+CUST_4729,23,Male,Asia Pacific,Standard,13.52,Direct Debit,Yes,Monthly,10.2,2,5,11,1,1,9,0.09093502,9.09,0,Active,Low,1.2294414925575257
+CUST_3254,38,Female,Asia Pacific,Standard,13.92,Digital Wallet,Yes,Annual,11.7,2,7,5,3,1,17,0.079870455,7.99,0,Active,Low,1.1117967331409455
+CUST_5963,37,Male,Middle East & Africa,Standard,13.9,Direct Debit,No,Monthly,16.0,5,10,10,2,0,13,0.01980152,1.98,0,Active,Low,0.2752411253750324
+CUST_4643,36,Male,North America,Premium,19.67,PayPal,No,Monthly,15.5,1,7,10,1,4,33,0.29883888,29.88,0,Active,Low,5.878160841166974
+CUST_5157,18,Male,Asia Pacific,Premium,20.61,Direct Debit,Yes,Annual,11.2,2,4,7,0,2,23,0.24044669,24.04,0,Active,Low,4.95560621380806
+CUST_3271,41,Male,Latin America,Standard,14.14,Direct Debit,Yes,Monthly,8.0,3,6,1,0,1,17,0.16369434,16.37,0,Active,Low,2.3146379253268243
+CUST_1290,23,Male,North America,Basic,8.35,Credit Card,Yes,Monthly,6.9,4,6,7,1,1,22,0.13124862,13.12,0,Active,Low,1.0959260031580924
+CUST_1390,24,Male,North America,Premium,20.25,Carrier Billing,No,Annual,3.2,7,3,4,0,1,26,0.26518464,26.52,0,Active,Low,5.369988977909088
+CUST_5895,27,Female,Asia Pacific,Standard,14.17,Direct Debit,Yes,Monthly,9.8,3,7,7,0,0,19,0.092240006,9.22,0,Active,Low,1.307040881216526
+CUST_3734,31,Female,Middle East & Africa,Basic,8.4,Direct Debit,Yes,Monthly,7.8,4,5,4,1,1,18,0.19725323,19.73,0,Active,Low,1.6569271087646484
+CUST_3829,21,Male,Middle East & Africa,Premium,19.58,Direct Debit,No,Annual,4.4,5,4,5,3,2,29,0.30829778,30.83,0,Active,Medium,6.036470593810081
+CUST_1793,40,Male,Asia Pacific,Basic,8.13,Digital Wallet,No,Monthly,1.7,2,4,0,0,0,17,0.4342451,43.42,0,Active,Medium,3.5304127407073977
+CUST_3666,49,Male,Latin America,Premium,19.5,Direct Debit,Yes,Monthly,5.2,2,5,6,2,0,29,0.29568863,29.57,0,Active,Low,5.765928268432617
+CUST_2780,58,Female,Asia Pacific,Standard,14.37,Credit Card,Yes,Annual,4.6,3,4,8,1,0,13,0.15476744,15.48,0,Active,Low,2.224008095115423
+CUST_2006,37,Female,Latin America,Standard,14.26,Direct Debit,Yes,Monthly,19.8,3,12,16,0,0,3,0.0034790456,0.35,0,Active,Low,0.04961119001265615
+CUST_3004,36,Male,Latin America,Standard,14.27,PayPal,Yes,Annual,10.2,6,8,14,0,0,7,0.034654994,3.47,0,Active,Low,0.4945267581567168
+CUST_5761,40,Female,Europe,Standard,14.17,Direct Debit,No,Monthly,8.0,6,5,9,0,1,27,0.291321,29.13,0,Active,Low,4.12801870316267
+CUST_5935,29,Female,Europe,Standard,14.03,Credit Card,No,Monthly,6.6,5,4,12,1,2,25,0.43962613,43.96,0,Active,Medium,6.167954568564891
+CUST_2535,47,Female,Latin America,Basic,7.88,Direct Debit,Yes,Monthly,15.4,3,9,10,1,0,29,0.024782361,2.48,0,Active,Low,0.19528500832617282
+CUST_2346,40,Female,North America,Standard,14.0,PayPal,No,Monthly,5.8,2,1,0,1,2,20,0.42567962,42.57,0,Active,Medium,5.959514737129211
+CUST_3369,19,Female,Europe,Standard,14.14,PayPal,No,Annual,8.7,3,8,7,1,0,19,0.08054178,8.05,0,Active,Low,1.1388607986271382
+CUST_3444,19,Female,North America,Standard,14.5,Direct Debit,Yes,Monthly,11.7,3,9,9,1,0,24,0.1609328,16.09,0,Active,Low,2.3335255160927773
+CUST_3364,27,Female,Middle East & Africa,Premium,20.14,Carrier Billing,No,Monthly,23.9,2,13,15,0,3,0,0.016368557,1.64,0,Active,Low,0.32966273330152035
+CUST_2775,42,Other,North America,Standard,13.61,Carrier Billing,Yes,Annual,7.5,1,8,9,0,1,16,0.106925234,10.69,0,Active,Low,1.455252437442541
+CUST_3107,38,Female,Asia Pacific,Standard,14.13,Digital Wallet,No,Annual,10.3,5,4,1,0,1,36,0.17109452,17.11,0,Active,Low,2.4175655941665175
+CUST_3936,27,Male,Asia Pacific,Standard,13.77,Digital Wallet,Yes,Monthly,7.5,4,5,6,2,1,10,0.11297153,11.3,0,Active,Low,1.5556179593503474
+CUST_5165,36,Female,Europe,Standard,13.81,Credit Card,Yes,Monthly,6.4,2,4,6,0,3,21,0.39060172,39.06,0,Active,Medium,5.3942098137736325
+CUST_5367,22,Female,Asia Pacific,Standard,13.82,Direct Debit,No,Annual,11.0,4,10,9,0,1,7,0.041020866,4.1,0,Active,Low,0.5669083748012781
+CUST_1142,36,Female,North America,Standard,13.72,Carrier Billing,Yes,Monthly,10.2,4,6,7,4,1,21,0.18831733,18.83,0,Active,Low,2.5837137496471407
+CUST_1303,31,Male,Europe,Standard,13.96,Credit Card,No,Monthly,8.1,2,7,10,0,4,22,0.39905238,39.91,0,Active,Medium,5.570771245956421
+CUST_1737,39,Male,Middle East & Africa,Basic,7.85,Digital Wallet,Yes,Monthly,15.4,3,10,14,0,1,4,0.008914674,0.89,0,Active,Low,0.0699801885522902
+CUST_2933,39,Male,Latin America,Standard,13.83,Direct Debit,No,Monthly,21.7,1,8,20,0,4,23,0.15652099,15.65,0,Active,Low,2.1646853265166284
+CUST_2462,35,Male,North America,Standard,13.9,Credit Card,Yes,Annual,28.1,3,19,15,1,1,8,0.044049624,4.4,0,Active,Low,0.6122897785156965
+CUST_2275,49,Male,Latin America,Basic,7.92,PayPal,No,Annual,7.7,5,10,9,1,1,20,0.027437277,2.74,0,Active,Low,0.21730323493480683
+CUST_2774,36,Female,Middle East & Africa,Premium,19.7,Direct Debit,Yes,Monthly,12.3,6,9,15,0,2,15,0.19184977,19.18,0,Active,Low,3.7794404327869415
+CUST_1947,30,Female,Middle East & Africa,Standard,14.17,Direct Debit,Yes,Monthly,8.3,4,2,0,2,1,28,0.4125089,41.25,0,Active,Medium,5.84525118291378
+CUST_5878,18,Female,North America,Standard,13.71,Digital Wallet,No,Monthly,4.7,5,3,7,1,2,33,0.49002382,49.0,0,Active,Medium,6.718226594030858
+CUST_5569,23,Other,Asia Pacific,Standard,13.79,PayPal,Yes,Annual,4.6,2,3,3,0,1,15,0.2062755,20.63,0,Active,Low,2.8445390471816063
+CUST_5867,35,Male,Europe,Basic,8.31,Credit Card,Yes,Monthly,9.9,5,5,3,1,3,18,0.15849286,15.85,0,Active,Low,1.317075693011284
+CUST_1979,55,Male,North America,Standard,13.98,Credit Card,Yes,Monthly,11.0,3,10,8,0,0,9,0.061248913,6.12,0,Active,Low,0.8562598094344139
+CUST_4504,46,Male,Asia Pacific,Standard,14.5,Digital Wallet,Yes,Annual,6.3,4,2,6,2,1,29,0.27269986,27.27,0,Active,Low,3.9541480094194412
+CUST_2332,51,Male,Middle East & Africa,Standard,13.77,Digital Wallet,Yes,Monthly,7.4,3,5,7,1,2,25,0.10097834,10.1,0,Active,Low,1.390471703633666
+CUST_2058,23,Other,Latin America,Basic,7.6,PayPal,Yes,Annual,13.4,4,5,4,1,1,22,0.020572806,2.06,0,Active,Low,0.15635332390666007
+CUST_2454,27,Female,North America,Premium,19.9,Direct Debit,Yes,Annual,7.7,4,7,3,2,0,11,0.11021976,11.02,0,Active,Low,2.193373258411884
+CUST_1714,38,Female,Asia Pacific,Premium,20.32,PayPal,Yes,Monthly,4.5,4,4,5,2,1,35,0.56652874,56.65,1,Churned,Medium,11.511863946914673
+CUST_3795,18,Female,Asia Pacific,Premium,19.78,Credit Card,Yes,Monthly,19.7,5,13,17,2,0,7,0.018836258,1.88,0,Active,Low,0.3725811828300357
+CUST_5958,29,Male,North America,Basic,7.76,Direct Debit,Yes,Monthly,12.8,4,11,9,2,4,19,0.086925514,8.69,0,Active,Low,0.6745419889688492
+CUST_1838,47,Male,North America,Premium,19.99,PayPal,Yes,Annual,10.5,5,6,6,0,1,27,0.30032673,30.03,0,Active,Medium,6.003531428277492
+CUST_3784,27,Female,Asia Pacific,Standard,13.77,Direct Debit,No,Annual,5.5,7,9,6,2,1,20,0.1003805,10.04,0,Active,Low,1.382239521369338
+CUST_4272,35,Male,North America,Standard,14.13,Carrier Billing,Yes,Monthly,9.3,6,7,4,1,2,10,0.07206025,7.21,0,Active,Low,1.018211328908801
+CUST_2078,30,Female,Europe,Standard,13.67,Credit Card,Yes,Monthly,4.4,6,4,3,1,1,25,0.34593412,34.59,0,Active,Medium,4.728919458687305
+CUST_5651,41,Male,Asia Pacific,Premium,19.51,Direct Debit,Yes,Monthly,10.2,2,8,6,0,1,15,0.1429447,14.29,0,Active,Low,2.7888509714603424
+CUST_5218,24,Male,Europe,Basic,7.9,Credit Card,Yes,Annual,8.8,3,5,2,0,1,19,0.099014014,9.9,0,Active,Low,0.782210710644722
+CUST_3661,42,Other,Europe,Premium,19.92,Credit Card,No,Monthly,3.1,2,3,2,0,1,32,0.5955826,59.56,1,Churned,Medium,11.864005479812622
+CUST_3980,18,Male,North America,Premium,19.91,PayPal,Yes,Monthly,5.3,2,2,2,2,0,36,0.63383895,63.38,1,Churned,High,12.619733526110648
+CUST_3078,50,Female,Asia Pacific,Basic,7.87,Credit Card,Yes,Annual,9.8,5,6,4,1,3,24,0.2301561,23.02,0,Active,Low,1.8113284584879876
+CUST_1905,27,Female,Middle East & Africa,Premium,19.81,PayPal,Yes,Monthly,8.6,2,4,3,3,2,33,0.5352931,53.53,1,Churned,Medium,10.604156355857848
+CUST_1194,35,Male,North America,Premium,20.66,Carrier Billing,Yes,Monthly,13.1,3,6,8,1,0,23,0.41558325,41.56,0,Active,Medium,8.585950005054475
+CUST_1697,34,Female,Asia Pacific,Standard,13.96,PayPal,Yes,Monthly,16.3,3,12,11,1,1,10,0.046287637,4.63,0,Active,Low,0.646175415366888
+CUST_2478,19,Female,Europe,Premium,20.27,Direct Debit,Yes,Monthly,12.1,2,8,12,2,2,20,0.22232498,22.23,0,Active,Low,4.506527390927077
+CUST_2341,23,Female,Middle East & Africa,Basic,7.75,Direct Debit,No,Monthly,13.0,5,8,8,2,2,28,0.18203409,18.2,0,Active,Low,1.4107641987502575
+CUST_5858,19,Male,Latin America,Standard,14.98,Carrier Billing,Yes,Monthly,17.4,2,7,16,2,3,20,0.16277663,16.28,0,Active,Low,2.4383939787745477
+CUST_4088,44,Male,Asia Pacific,Standard,13.93,Credit Card,Yes,Monthly,8.8,4,7,10,2,1,22,0.15597849,15.6,0,Active,Low,2.1727803091704847
+CUST_2092,31,Female,Latin America,Standard,14.14,Credit Card,Yes,Monthly,11.4,3,11,8,1,2,8,0.10462594,10.46,0,Active,Low,1.4794107961654663
+CUST_2039,46,Female,North America,Standard,14.04,Digital Wallet,No,Monthly,21.9,5,13,14,4,1,24,0.022615299,2.26,0,Active,Low,0.31751879274845124
+CUST_2195,29,Female,North America,Premium,20.09,PayPal,Yes,Monthly,11.8,3,5,8,0,0,21,0.26227483,26.23,0,Active,Low,5.269101365506649
+CUST_2085,21,Female,Asia Pacific,Premium,19.97,Carrier Billing,Yes,Monthly,13.8,2,10,10,1,2,11,0.0815408,8.15,0,Active,Low,1.6283697886019943
+CUST_3554,44,Female,North America,Premium,20.5,PayPal,No,Annual,5.1,2,1,4,4,0,35,0.6352975,63.53,1,Churned,High,13.023598283529282
+CUST_5891,18,Female,Asia Pacific,Basic,7.33,Digital Wallet,No,Annual,14.5,2,8,8,1,0,19,0.0283572,2.84,0,Active,Low,0.20785827837884427
+CUST_3576,29,Male,Asia Pacific,Standard,13.88,Carrier Billing,Yes,Annual,11.3,4,6,6,0,1,21,0.08446368,8.45,0,Active,Low,1.1723558548092843
+CUST_4339,40,Female,Europe,Basic,7.6,PayPal,No,Annual,4.2,5,2,6,3,0,32,0.5120509,51.21,1,Churned,Medium,3.8915870428085326
+CUST_3071,36,Female,North America,Premium,20.26,PayPal,Yes,Monthly,10.5,4,7,10,1,2,28,0.18358462,18.36,0,Active,Low,3.7194243118166925
+CUST_5813,35,Female,North America,Standard,14.35,Credit Card,No,Monthly,5.4,3,1,2,2,1,34,0.35730475,35.73,0,Active,Medium,5.127323189377784
+CUST_1501,18,Female,North America,Standard,14.34,Credit Card,Yes,Monthly,3.8,3,5,4,1,0,23,0.19239493,19.24,0,Active,Low,2.7589432552456854
+CUST_4353,48,Female,Asia Pacific,Basic,7.96,PayPal,Yes,Annual,7.0,4,4,7,1,0,26,0.14220397,14.22,0,Active,Low,1.1319436150789262
+CUST_1185,33,Male,Asia Pacific,Standard,13.91,Credit Card,No,Annual,8.5,6,6,9,0,2,18,0.09678246,9.68,0,Active,Low,1.3462440298497678
+CUST_1967,23,Female,Europe,Premium,20.25,Credit Card,Yes,Monthly,14.4,5,7,9,1,1,15,0.105329424,10.53,0,Active,Low,2.13292083889246
+CUST_3852,20,Female,Europe,Standard,13.89,Credit Card,Yes,Monthly,3.7,1,3,4,1,1,25,0.378573,37.86,0,Active,Medium,5.258378975987434
+CUST_2200,18,Male,Middle East & Africa,Standard,14.71,Direct Debit,Yes,Annual,7.9,3,6,10,1,4,25,0.09255762,9.26,0,Active,Low,1.3615225391834975
+CUST_5535,25,Male,Asia Pacific,Standard,13.46,Credit Card,Yes,Annual,10.5,4,8,8,2,0,9,0.13589133,13.59,0,Active,Low,1.829097345173359
+CUST_2721,26,Male,Latin America,Basic,8.43,Carrier Billing,Yes,Monthly,5.4,4,3,8,0,2,35,0.26431483,26.43,0,Active,Low,2.22817401945591
+CUST_4565,43,Male,Latin America,Premium,20.08,Credit Card,Yes,Monthly,4.3,1,2,3,1,2,31,0.5706706,57.07,1,Churned,Medium,11.459065742492674
+CUST_4458,18,Male,North America,Premium,20.4,Digital Wallet,Yes,Annual,11.9,3,8,15,1,1,10,0.21227261,21.23,0,Active,Low,4.330361330509185
+CUST_2862,48,Male,Middle East & Africa,Premium,19.51,Direct Debit,Yes,Annual,5.7,6,4,4,2,1,31,0.42671868,42.67,0,Active,Medium,8.325281486809255
+CUST_3618,33,Female,Europe,Premium,19.9,Credit Card,Yes,Monthly,15.4,1,10,9,1,0,6,0.042004112,4.2,0,Active,Low,0.835881831869483
+CUST_5630,38,Other,Middle East & Africa,Basic,7.98,Direct Debit,Yes,Monthly,12.0,2,6,10,0,1,19,0.09401869,9.4,0,Active,Low,0.7502691484987736
+CUST_2914,37,Male,North America,Standard,14.11,Direct Debit,No,Monthly,14.5,5,8,11,1,0,18,0.07114044,7.11,0,Active,Low,1.0037915846705436
+CUST_5868,29,Female,Middle East & Africa,Basic,7.42,Carrier Billing,Yes,Monthly,2.1,5,3,2,1,0,27,0.23982191,23.98,0,Active,Low,1.779478578567505
+CUST_2312,26,Female,Europe,Premium,19.93,Credit Card,No,Monthly,9.0,2,6,4,0,1,17,0.32445508,32.45,0,Active,Medium,6.466389792561531
+CUST_2632,44,Female,Asia Pacific,Premium,19.76,Carrier Billing,Yes,Monthly,6.5,4,3,3,0,1,12,0.27766904,27.77,0,Active,Low,5.486740276813507
+CUST_1062,23,Female,North America,Standard,14.12,Credit Card,Yes,Monthly,9.6,1,9,6,0,3,17,0.22179772,22.18,0,Active,Low,3.1317838007211685
+CUST_3014,29,Female,Asia Pacific,Standard,13.51,PayPal,Yes,Monthly,13.8,3,9,10,1,3,35,0.14108734,14.11,0,Active,Low,1.906089940816164
+CUST_5249,43,Female,Asia Pacific,Basic,7.98,Direct Debit,Yes,Annual,11.2,2,6,8,2,1,21,0.14744489,14.74,0,Active,Low,1.176610213816166
+CUST_1938,27,Male,North America,Basic,8.09,Credit Card,Yes,Monthly,14.6,4,7,12,1,3,30,0.21374528,21.37,0,Active,Low,1.7291993241012096
+CUST_3947,39,Female,North America,Basic,7.99,Direct Debit,No,Annual,12.8,5,8,10,0,1,2,0.026012981,2.6,0,Active,Low,0.2078437206707895
+CUST_1403,28,Male,North America,Premium,20.12,Digital Wallet,No,Annual,10.5,4,2,4,0,2,36,0.52943516,52.94,1,Churned,Medium,10.652235374450685
+CUST_5932,40,Female,Asia Pacific,Standard,13.75,Credit Card,Yes,Monthly,4.1,6,4,5,1,1,19,0.3840151,38.4,0,Active,Medium,5.280207805335522
+CUST_2545,49,Female,Europe,Standard,14.06,Digital Wallet,No,Monthly,3.4,3,4,5,0,1,27,0.26873186,26.87,0,Active,Low,3.7783699840307237
+CUST_2642,35,Female,Asia Pacific,Basic,8.36,Credit Card,Yes,Monthly,3.3,3,5,5,0,2,28,0.2533185,25.33,0,Active,Low,2.117742564678192
+CUST_2700,33,Male,Asia Pacific,Standard,13.43,PayPal,No,Monthly,13.0,4,6,6,1,1,22,0.13462903,13.46,0,Active,Low,1.8080678199231623
+CUST_2479,36,Female,Asia Pacific,Standard,14.25,PayPal,Yes,Monthly,10.0,3,7,6,1,1,14,0.061532583,6.15,0,Active,Low,0.8768393089994788
+CUST_5667,38,Male,Asia Pacific,Premium,20.33,Digital Wallet,Yes,Monthly,24.3,4,13,18,0,2,0,0.038374145,3.84,0,Active,Low,0.7801463593915104
+CUST_2983,48,Male,Europe,Premium,19.54,Digital Wallet,No,Annual,6.5,1,3,3,1,0,24,0.26687276,26.69,0,Active,Low,5.214693801403046
+CUST_1743,34,Male,North America,Premium,20.06,Credit Card,Yes,Annual,9.0,4,5,7,0,0,17,0.060440376,6.04,0,Active,Low,1.2124339506030082
+CUST_4736,54,Female,Asia Pacific,Premium,20.02,PayPal,Yes,Monthly,12.6,6,4,12,0,0,23,0.18519266,18.52,0,Active,Low,3.707557043135166
+CUST_4189,29,Male,Asia Pacific,Basic,7.61,Digital Wallet,Yes,Annual,14.5,2,10,9,2,1,17,0.024261802,2.43,0,Active,Low,0.18463231652975085
+CUST_2994,38,Female,North America,Basic,7.92,Credit Card,Yes,Monthly,5.6,2,2,5,1,0,17,0.23265056,23.27,0,Active,Low,1.8425924599170684
+CUST_1387,37,Male,Asia Pacific,Standard,13.95,Digital Wallet,Yes,Monthly,10.2,3,7,9,0,0,9,0.0641825,6.42,0,Active,Low,0.8953458409756422
+CUST_1991,25,Male,Europe,Standard,14.7,Direct Debit,Yes,Annual,5.3,5,3,9,3,1,22,0.20127828,20.13,0,Active,Low,2.958790777623653
+CUST_2546,42,Male,Europe,Standard,13.97,Credit Card,Yes,Monthly,6.7,4,4,7,1,1,25,0.31872386,31.87,0,Active,Medium,4.452572287917137
+CUST_3000,45,Female,Europe,Standard,13.99,Credit Card,No,Monthly,10.4,2,8,0,1,2,13,0.17461161,17.46,0,Active,Low,2.4428164680302142
+CUST_1719,21,Male,Europe,Standard,13.74,Carrier Billing,Yes,Monthly,17.3,3,10,10,3,1,15,0.033291414,3.33,0,Active,Low,0.45742403358221057
+CUST_5885,33,Female,Asia Pacific,Premium,20.38,Carrier Billing,No,Monthly,8.5,3,5,6,2,0,10,0.32638308,32.64,0,Active,Medium,6.651687253117561
+CUST_3244,21,Male,North America,Basic,7.41,Credit Card,Yes,Monthly,9.7,6,5,4,2,1,17,0.072501086,7.25,0,Active,Low,0.53723304502666
+CUST_3777,27,Female,Europe,Standard,13.8,PayPal,Yes,Annual,13.3,5,7,7,2,0,14,0.026735635,2.67,0,Active,Low,0.3689517695456743
+CUST_1776,18,Male,North America,Premium,19.8,Direct Debit,Yes,Monthly,5.6,4,3,8,3,1,26,0.4914792,49.15,0,Active,Medium,9.73128792643547
+CUST_1220,39,Female,North America,Standard,13.66,Credit Card,Yes,Annual,7.5,3,6,6,0,1,17,0.19205531,19.21,0,Active,Low,2.623475599884987
+CUST_1002,46,Female,Middle East & Africa,Standard,13.8,PayPal,Yes,Annual,9.9,5,11,9,0,2,10,0.07532237,7.53,0,Active,Low,1.0394486680626869
+CUST_3066,35,Female,Latin America,Premium,20.04,Credit Card,Yes,Monthly,8.0,3,5,9,1,0,19,0.19379571,19.38,0,Active,Low,3.8836660444736477
+CUST_2899,50,Female,Asia Pacific,Basic,7.96,Direct Debit,Yes,Annual,7.3,3,5,0,0,1,25,0.10190206,10.19,0,Active,Low,0.8111403992772103
+CUST_1516,30,Female,Europe,Basic,8.09,Direct Debit,Yes,Annual,13.2,3,9,12,2,4,25,0.04650875,4.65,0,Active,Low,0.37625580213963983
+CUST_3515,38,Female,North America,Basic,8.12,Carrier Billing,Yes,Annual,2.0,3,4,3,2,0,27,0.16523752,16.52,0,Active,Low,1.3417286312580108
+CUST_2467,42,Female,North America,Standard,14.41,PayPal,No,Monthly,11.2,2,8,11,0,2,27,0.20306002,20.31,0,Active,Low,2.9260948310792445
+CUST_1181,45,Female,North America,Premium,20.0,Direct Debit,Yes,Monthly,6.6,2,7,11,1,2,30,0.35950747,35.95,0,Active,Medium,7.190149426460266
+CUST_5984,33,Male,North America,Basic,8.02,Credit Card,Yes,Monthly,8.2,1,5,9,1,3,31,0.41780156,41.78,0,Active,Medium,3.350768502950668
+CUST_5102,43,Female,North America,Standard,14.15,Credit Card,Yes,Monthly,17.7,5,10,13,0,2,18,0.02859636,2.86,0,Active,Low,0.4046384973451495
+CUST_5085,28,Male,Latin America,Standard,13.45,Digital Wallet,Yes,Monthly,9.6,2,5,7,2,0,31,0.20619863,20.62,0,Active,Low,2.773371610045433
+CUST_1264,31,Female,Europe,Basic,7.82,Credit Card,Yes,Monthly,2.5,2,4,2,2,2,30,0.36819842,36.82,0,Active,Medium,2.879311680197716
+CUST_5644,29,Male,Europe,Basic,8.15,Carrier Billing,Yes,Annual,10.7,4,3,2,5,0,28,0.17998429,18.0,0,Active,Low,1.4668719343841077
+CUST_3476,36,Female,North America,Basic,8.06,Credit Card,Yes,Monthly,12.3,2,5,14,0,0,14,0.14317381,14.32,0,Active,Low,1.1539809393882752
+CUST_1718,39,Female,Europe,Basic,7.92,Credit Card,Yes,Annual,14.9,1,11,8,0,1,8,0.15348585,15.35,0,Active,Low,1.2156079280376435
+CUST_3569,18,Female,Middle East & Africa,Standard,14.43,Credit Card,Yes,Monthly,10.9,3,6,8,0,4,11,0.16865875,16.87,0,Active,Low,2.4337457375228406
+CUST_4349,26,Female,Europe,Standard,13.52,Credit Card,Yes,Monthly,13.6,1,8,8,0,0,23,0.13511042,13.51,0,Active,Low,1.8266929185390473
+CUST_3130,44,Male,Middle East & Africa,Basic,7.87,Digital Wallet,Yes,Annual,10.1,3,6,4,1,0,10,0.12553309,12.55,0,Active,Low,0.9879454107582569
+CUST_1551,33,Female,Latin America,Standard,14.79,Credit Card,Yes,Monthly,1.8,5,3,2,1,0,32,0.24749975,24.75,0,Active,Low,3.6605212886631486
+CUST_2887,68,Female,Europe,Basic,7.77,PayPal,Yes,Monthly,8.1,2,6,3,1,0,19,0.12326498,12.33,0,Active,Low,0.957768920212984
+CUST_4877,32,Female,Asia Pacific,Basic,7.82,Digital Wallet,Yes,Monthly,6.5,5,6,2,2,2,7,0.067055665,6.71,0,Active,Low,0.5243752999603748
+CUST_5702,35,Female,North America,Standard,13.62,PayPal,Yes,Monthly,10.5,3,7,8,1,1,11,0.06810229,6.81,0,Active,Low,0.9275532267987727
+CUST_4482,28,Male,North America,Standard,13.7,Credit Card,No,Monthly,15.3,4,6,8,1,1,21,0.15055342,15.06,0,Active,Low,2.062581856548786
+CUST_1005,21,Male,Middle East & Africa,Basic,7.89,PayPal,No,Monthly,17.3,4,14,11,1,1,4,0.008411625,0.84,0,Active,Low,0.06636772440746426
+CUST_3154,29,Male,Asia Pacific,Premium,20.02,Credit Card,No,Monthly,8.4,3,5,4,0,1,27,0.4523846,45.24,0,Active,Medium,9.056739513874053
+CUST_2020,44,Male,North America,Standard,14.14,Credit Card,Yes,Monthly,8.2,1,7,8,0,1,13,0.115228966,11.52,0,Active,Low,1.629337577521801
+CUST_3600,60,Male,Asia Pacific,Premium,19.16,PayPal,Yes,Monthly,13.7,3,9,9,2,0,14,0.052589327,5.26,0,Active,Low,1.0076115071773528
+CUST_4137,18,Female,Middle East & Africa,Premium,20.39,Carrier Billing,Yes,Annual,7.3,2,7,4,0,2,24,0.11836651,11.84,0,Active,Low,2.4134931322932243
+CUST_4102,20,Female,Middle East & Africa,Basic,7.62,Carrier Billing,Yes,Monthly,8.7,2,4,9,0,2,25,0.18054825,18.05,0,Active,Low,1.3757776701450348
+CUST_1601,35,Female,North America,Standard,13.65,PayPal,No,Monthly,6.9,4,3,4,2,1,46,0.32813448,32.81,0,Active,Medium,4.4790356129407884
+CUST_3437,35,Female,Europe,Standard,13.98,Credit Card,No,Monthly,10.7,3,8,6,1,1,19,0.24977948,24.98,0,Active,Low,3.4919170984625816
+CUST_1193,49,Male,North America,Basic,7.97,Direct Debit,Yes,Monthly,4.9,4,3,1,2,0,33,0.31015536,31.02,0,Active,Medium,2.471938234269619
+CUST_4277,18,Male,Latin America,Standard,13.63,PayPal,Yes,Monthly,7.6,6,8,6,1,0,14,0.106459975,10.65,0,Active,Low,1.451049462556839
+CUST_5164,37,Male,Europe,Standard,13.59,PayPal,No,Monthly,10.3,2,9,4,1,1,8,0.11600427,11.6,0,Active,Low,1.5764980740845203
+CUST_5874,40,Female,North America,Standard,14.24,Credit Card,Yes,Annual,11.7,2,6,6,1,2,28,0.28216457,28.22,0,Active,Low,4.018023529052734
+CUST_3062,18,Male,Latin America,Basic,7.7,Credit Card,Yes,Monthly,16.0,4,13,11,2,2,20,0.04325954,4.33,0,Active,Low,0.3330984480679035
+CUST_1961,39,Male,Latin America,Standard,13.49,Carrier Billing,Yes,Monthly,9.9,5,8,5,3,2,17,0.12415781,12.42,0,Active,Low,1.674888839647174
+CUST_1130,34,Female,North America,Standard,13.7,Credit Card,Yes,Monthly,4.3,5,4,5,1,0,25,0.39425072,39.43,0,Active,Medium,5.401234874129295
+CUST_2814,37,Male,Middle East & Africa,Basic,7.56,Direct Debit,Yes,Monthly,9.7,6,6,5,1,1,25,0.13837023,13.84,0,Active,Low,1.0460789448022842
+CUST_5308,50,Female,Latin America,Basic,8.19,Credit Card,Yes,Monthly,12.1,2,5,8,0,2,17,0.103934444,10.39,0,Active,Low,0.851223100349307
+CUST_5892,30,Other,Asia Pacific,Basic,8.39,Carrier Billing,Yes,Monthly,19.2,4,11,10,0,1,18,0.011200934,1.12,0,Active,Low,0.09397583388723434
+CUST_2412,36,Female,Latin America,Premium,19.8,Digital Wallet,No,Monthly,5.6,2,3,12,1,1,27,0.38890004,38.89,0,Active,Medium,7.700220823287964
+CUST_2593,36,Male,Asia Pacific,Premium,20.08,Direct Debit,Yes,Monthly,6.7,3,3,11,1,2,22,0.28994563,28.99,0,Active,Low,5.8221082949638365
+CUST_3705,27,Male,Europe,Standard,13.36,Direct Debit,Yes,Annual,8.7,4,7,4,0,1,29,0.12388435,12.39,0,Active,Low,1.655094916820526
+CUST_2807,34,Female,Latin America,Basic,7.39,Carrier Billing,No,Monthly,16.0,4,6,12,1,0,11,0.05093289,5.09,0,Active,Low,0.3763940694183111
+CUST_5990,48,Female,North America,Basic,8.13,Digital Wallet,Yes,Annual,6.6,2,5,5,1,1,14,0.09220915,9.22,0,Active,Low,0.7496604128926994
+CUST_5674,25,Male,Europe,Basic,8.94,Credit Card,No,Monthly,16.1,3,11,11,1,0,4,0.0134569835,1.35,0,Active,Low,0.12030543241649866
+CUST_2364,35,Male,Middle East & Africa,Basic,7.82,PayPal,Yes,Annual,23.6,5,13,23,0,0,14,0.0083743725,0.84,0,Active,Low,0.06548759292811156
+CUST_3247,46,Male,Latin America,Basic,8.17,Credit Card,Yes,Monthly,5.8,3,2,4,0,0,35,0.24282508,24.28,0,Active,Low,1.9838808707892894
+CUST_5951,39,Other,Asia Pacific,Basic,7.85,PayPal,Yes,Monthly,4.5,3,1,3,1,1,34,0.22055815,22.06,0,Active,Low,1.7313814900815485
+CUST_4453,44,Male,Asia Pacific,Basic,8.78,Digital Wallet,Yes,Annual,4.3,3,8,8,0,2,3,0.036800977,3.68,0,Active,Low,0.32311257667839527
+CUST_3564,29,Female,Asia Pacific,Standard,14.17,PayPal,Yes,Monthly,6.0,2,7,6,0,3,22,0.21127644,21.13,0,Active,Low,2.9937871804833414
+CUST_5195,37,Female,Latin America,Basic,8.36,Credit Card,No,Monthly,10.6,2,4,14,0,4,27,0.33432445,33.43,0,Active,Medium,2.7949523961544034
+CUST_5283,27,Female,Asia Pacific,Standard,14.38,Digital Wallet,Yes,Monthly,8.5,2,7,8,0,0,6,0.049121134,4.91,0,Active,Low,0.7063619066774846
+CUST_1984,28,Female,Latin America,Standard,13.63,Credit Card,No,Monthly,13.6,5,8,9,2,1,5,0.04501873,4.5,0,Active,Low,0.6136052738502622
+CUST_2623,24,Male,Asia Pacific,Premium,20.5,Credit Card,Yes,Annual,7.5,2,7,7,0,1,20,0.14159237,14.16,0,Active,Low,2.9026435539126396
+CUST_2222,37,Female,Europe,Basic,7.88,Credit Card,No,Monthly,8.9,4,7,5,0,0,17,0.16099116,16.1,0,Active,Low,1.2686103570461273
+CUST_2271,48,Male,Latin America,Premium,20.44,Direct Debit,Yes,Monthly,9.5,6,8,6,0,3,21,0.34689918,34.69,0,Active,Medium,7.090619271993638
+CUST_1343,26,Female,Asia Pacific,Premium,19.3,Credit Card,Yes,Monthly,10.9,7,9,10,2,1,10,0.2789691,27.9,0,Active,Low,5.3841038048267365
+CUST_1240,23,Female,Asia Pacific,Basic,7.74,Carrier Billing,Yes,Annual,2.2,2,8,2,1,2,11,0.16012146,16.01,0,Active,Low,1.2393400678038597
+CUST_2386,28,Female,Europe,Basic,8.01,Credit Card,Yes,Monthly,4.9,5,5,5,2,1,15,0.12653843,12.65,0,Active,Low,1.0135727897286415
+CUST_4140,62,Female,Middle East & Africa,Standard,14.54,Direct Debit,Yes,Annual,12.0,3,9,7,1,1,15,0.023369981,2.34,0,Active,Low,0.3397995233908295
+CUST_3229,27,Male,Asia Pacific,Basic,8.11,Credit Card,Yes,Monthly,29.7,3,17,20,0,3,15,0.04269404,4.27,0,Active,Low,0.3462486615031957
+CUST_3673,29,Other,Middle East & Africa,Standard,14.23,Credit Card,No,Monthly,2.5,5,4,2,2,0,31,0.42145067,42.15,0,Active,Medium,5.9972430986166
+CUST_5518,27,Female,Asia Pacific,Basic,8.89,Direct Debit,Yes,Monthly,1.8,7,4,7,1,1,21,0.25075155,25.08,0,Active,Low,2.229181323647499
+CUST_5620,51,Male,Europe,Standard,14.36,Direct Debit,Yes,Annual,5.7,1,1,6,0,0,27,0.18823902,18.82,0,Active,Low,2.703112371563911
+CUST_1768,36,Female,Asia Pacific,Basic,7.46,Direct Debit,No,Annual,8.9,2,8,4,1,3,19,0.114759736,11.48,0,Active,Low,0.8561076287925243
+CUST_2062,29,Male,North America,Standard,13.35,Credit Card,Yes,Monthly,4.4,3,4,0,0,0,20,0.28560272,28.56,0,Active,Low,3.8127962931990624
+CUST_1782,18,Female,North America,Premium,20.12,Digital Wallet,Yes,Annual,6.4,1,6,7,0,0,22,0.061422266,6.14,0,Active,Low,1.2358159932494164
+CUST_4667,41,Female,Latin America,Basic,7.72,Direct Debit,Yes,Monthly,1.5,4,2,1,2,0,22,0.13832223,13.83,0,Active,Low,1.0678476476669312
+CUST_2727,43,Female,Asia Pacific,Basic,7.52,PayPal,Yes,Annual,12.8,5,9,12,2,0,20,0.038145546,3.81,0,Active,Low,0.28685450494289394
+CUST_5034,49,Female,Latin America,Standard,13.54,Direct Debit,Yes,Annual,11.9,2,8,5,3,0,20,0.09101967,9.1,0,Active,Low,1.2324063004553316
+CUST_4658,29,Female,Asia Pacific,Standard,14.1,Direct Debit,No,Monthly,6.1,3,1,9,0,3,27,0.38977587,38.98,0,Active,Medium,5.495839798450469
+CUST_3745,36,Female,North America,Standard,14.11,Credit Card,Yes,Monthly,5.1,4,4,6,0,1,24,0.30577293,30.58,0,Active,Medium,4.314456047713756
+CUST_5275,27,Male,North America,Basic,8.14,PayPal,Yes,Annual,1.7,2,4,3,0,2,17,0.28031388,28.03,0,Active,Low,2.281754977107048
+CUST_3118,30,Male,North America,Basic,7.88,Digital Wallet,Yes,Monthly,1.4,2,3,6,0,1,21,0.20271775,20.27,0,Active,Low,1.5974158799648284
+CUST_4602,40,Male,North America,Basic,7.91,PayPal,Yes,Annual,19.0,2,15,12,1,0,0,0.004304909,0.43,0,Active,Low,0.034051831355318425
+CUST_1408,18,Male,Asia Pacific,Premium,19.66,Carrier Billing,No,Monthly,7.6,4,9,4,1,1,28,0.31384584,31.38,0,Active,Medium,6.170209274888038
+CUST_3266,33,Male,North America,Basic,7.92,Direct Debit,Yes,Annual,3.8,3,5,3,0,1,36,0.21101397,21.1,0,Active,Low,1.6712306642532349
+CUST_3830,21,Female,Latin America,Standard,13.79,Digital Wallet,Yes,Monthly,5.2,2,5,7,2,2,27,0.1497592,14.98,0,Active,Low,2.0651794120669362
+CUST_3982,40,Male,Asia Pacific,Basic,7.6,Direct Debit,No,Monthly,8.1,3,6,8,1,1,9,0.14851543,14.85,0,Active,Low,1.128717291355133
+CUST_1053,38,Female,Latin America,Premium,19.67,Direct Debit,Yes,Monthly,6.1,1,4,3,2,0,24,0.27631927,27.63,0,Active,Low,5.435199949741364
+CUST_3133,51,Female,North America,Premium,19.78,PayPal,No,Monthly,13.1,4,7,12,0,0,22,0.086175315,8.62,0,Active,Low,1.7045477323234082
+CUST_3747,48,Male,Latin America,Basic,7.99,PayPal,Yes,Monthly,6.6,3,6,8,1,1,23,0.17530303,17.53,0,Active,Low,1.4006711860001086
+CUST_4913,22,Male,North America,Premium,20.52,Carrier Billing,Yes,Monthly,27.0,3,16,19,1,0,13,0.033161145,3.32,0,Active,Low,0.6804666893184185
+CUST_5180,18,Female,Europe,Premium,19.95,Credit Card,Yes,Annual,10.0,5,7,6,0,1,16,0.10741082,10.74,0,Active,Low,2.1428458258509635
+CUST_2117,46,Male,North America,Basic,7.48,Credit Card,Yes,Monthly,8.4,2,7,12,2,1,33,0.20958522,20.96,0,Active,Low,1.5676974427700043
+CUST_5979,24,Female,Middle East & Africa,Premium,20.15,Credit Card,Yes,Monthly,23.7,6,11,15,1,0,16,0.036732826,3.67,0,Active,Low,0.7401664515957236
+CUST_1789,39,Female,Middle East & Africa,Premium,19.92,Direct Debit,Yes,Monthly,12.5,3,5,7,0,0,12,0.13392116,13.39,0,Active,Low,2.6677095329761507
+CUST_5162,31,Female,Europe,Basic,8.19,Credit Card,Yes,Monthly,2.4,3,4,4,2,0,14,0.16461046,16.46,0,Active,Low,1.3481596706807613
+CUST_5092,38,Female,Europe,Standard,14.1,Carrier Billing,Yes,Monthly,7.1,1,5,8,2,0,22,0.20109957,20.11,0,Active,Low,2.835504001379013
+CUST_3201,33,Female,Middle East & Africa,Basic,8.11,Digital Wallet,Yes,Annual,16.0,6,9,12,0,1,15,0.013765671,1.38,0,Active,Low,0.11163959416560829
+CUST_3203,29,Female,Middle East & Africa,Premium,20.35,Direct Debit,No,Monthly,7.6,3,6,6,1,1,16,0.36209548,36.21,0,Active,Medium,7.368642920255661
+CUST_3897,29,Male,North America,Premium,19.6,Direct Debit,No,Annual,6.4,5,4,10,1,0,22,0.14091112,14.09,0,Active,Low,2.761857897043228
+CUST_1628,27,Female,North America,Basic,7.81,Credit Card,Yes,Monthly,10.1,4,9,9,1,2,41,0.20245266,20.25,0,Active,Low,1.5811552715301513
+CUST_1702,32,Female,Europe,Basic,8.13,PayPal,No,Monthly,1.2,7,2,7,1,1,26,0.44198805,44.2,0,Active,Medium,3.5933628541231157
+CUST_5741,45,Female,North America,Basic,8.1,Credit Card,No,Monthly,9.2,3,9,10,0,1,12,0.056352265,5.64,0,Active,Low,0.45645334795117376
+CUST_2676,34,Male,Asia Pacific,Premium,19.76,Direct Debit,Yes,Monthly,17.8,3,12,12,3,0,4,0.016232641,1.62,0,Active,Low,0.3207569943368435
+CUST_5583,41,Male,North America,Premium,20.08,Credit Card,Yes,Annual,12.6,4,6,6,0,3,21,0.25122857,25.12,0,Active,Low,5.044669704437255
+CUST_2241,35,Female,Latin America,Premium,19.84,PayPal,Yes,Annual,15.3,3,11,10,1,0,19,0.04708624,4.71,0,Active,Low,0.9341909790039062
+CUST_2349,41,Male,North America,Standard,14.3,PayPal,No,Annual,9.2,1,7,7,1,0,24,0.11997145,12.0,0,Active,Low,1.715591687709093
+CUST_1245,30,Female,Latin America,Standard,13.96,Direct Debit,Yes,Annual,5.2,1,5,5,0,2,31,0.18621697,18.62,0,Active,Low,2.599588835835457
+CUST_4060,45,Female,Latin America,Basic,8.2,Direct Debit,Yes,Monthly,6.6,3,4,3,1,1,24,0.19726029,19.73,0,Active,Low,1.6175343811511993
+CUST_1025,25,Male,Europe,Standard,14.05,Carrier Billing,Yes,Monthly,7.1,2,5,5,1,0,37,0.19961664,19.96,0,Active,Low,2.8046138033270838
+CUST_2204,35,Male,Asia Pacific,Standard,14.12,Credit Card,Yes,Monthly,17.2,2,9,12,3,0,16,0.20145993,20.15,0,Active,Low,2.84461420238018
+CUST_1259,50,Female,North America,Basic,8.15,Credit Card,No,Monthly,13.3,3,9,4,2,0,3,0.011713168,1.17,0,Active,Low,0.0954623163677752
+CUST_1442,52,Male,Latin America,Basic,8.23,PayPal,Yes,Annual,3.3,1,3,0,3,0,40,0.4289529,42.9,0,Active,Medium,3.530282388031483
+CUST_5090,20,Male,Asia Pacific,Basic,8.12,Direct Debit,Yes,Monthly,21.3,5,14,15,2,2,4,0.010358435,1.04,0,Active,Low,0.08411049302667378
+CUST_2059,21,Male,Middle East & Africa,Standard,14.26,Credit Card,No,Monthly,4.0,5,1,1,1,3,34,0.5406161,54.06,1,Churned,Medium,7.709185515642166
+CUST_3200,39,Female,Middle East & Africa,Standard,13.67,Credit Card,Yes,Annual,5.3,2,4,11,1,1,19,0.30807206,30.81,0,Active,Medium,4.211345064938068
+CUST_3743,21,Male,Europe,Basic,7.9,Direct Debit,No,Monthly,2.8,1,5,1,2,0,15,0.21548323,21.55,0,Active,Low,1.7023175433278084
+CUST_5550,31,Other,Middle East & Africa,Basic,7.58,Carrier Billing,Yes,Annual,2.5,3,2,1,3,0,35,0.3429098,34.29,0,Active,Medium,2.5992563819885253
+CUST_1196,21,Female,Europe,Basic,8.42,PayPal,Yes,Monthly,6.8,2,2,5,2,2,37,0.5944386,59.44,1,Churned,Medium,5.0051731169223785
+CUST_5458,47,Other,Asia Pacific,Standard,14.02,Carrier Billing,Yes,Monthly,4.7,4,5,11,0,2,18,0.21171127,21.17,0,Active,Low,2.9681920418143273
+CUST_5264,37,Male,Asia Pacific,Premium,19.36,Digital Wallet,Yes,Annual,12.2,6,3,8,0,1,25,0.23867638,23.87,0,Active,Low,4.620774796009064
+CUST_5153,25,Female,Latin America,Standard,14.83,Direct Debit,Yes,Monthly,13.0,2,7,15,1,0,14,0.14352205,14.35,0,Active,Low,2.1284320601820945
+CUST_5023,18,Female,Middle East & Africa,Basic,7.46,PayPal,Yes,Annual,9.1,5,6,4,3,1,18,0.046146713,4.61,0,Active,Low,0.34425448045134543
+CUST_1817,49,Male,Middle East & Africa,Premium,20.76,Carrier Billing,Yes,Annual,14.7,4,9,12,1,2,18,0.112920925,11.29,0,Active,Low,2.344238403439522
+CUST_2877,26,Male,Middle East & Africa,Basic,8.16,PayPal,Yes,Annual,2.4,2,3,4,2,1,24,0.12028683,12.03,0,Active,Low,0.9815405309200287
+CUST_1755,52,Male,Asia Pacific,Standard,14.32,Credit Card,No,Monthly,15.3,3,8,8,0,4,20,0.08278599,8.28,0,Active,Low,1.185495324730873
+CUST_2615,29,Male,Latin America,Premium,19.97,PayPal,Yes,Monthly,4.6,3,6,4,1,0,13,0.3716102,37.16,0,Active,Medium,7.421055583059787
+CUST_4416,26,Female,North America,Basic,8.2,Credit Card,Yes,Annual,15.5,4,11,12,2,1,0,0.019776829,1.98,0,Active,Low,0.16216999441385269
+CUST_5294,50,Male,North America,Standard,14.06,Direct Debit,No,Monthly,10.8,2,9,8,2,2,4,0.035522092,3.55,0,Active,Low,0.499440615400672
+CUST_4853,27,Female,Asia Pacific,Standard,13.98,Credit Card,Yes,Monthly,4.7,3,6,4,1,1,28,0.22526076,22.53,0,Active,Low,3.1491454857587815
+CUST_5431,38,Other,Latin America,Basic,7.53,Direct Debit,Yes,Monthly,5.4,2,5,8,3,1,19,0.16721699,16.72,0,Active,Low,1.259143907725811
+CUST_3945,40,Female,Latin America,Basic,8.55,PayPal,Yes,Monthly,21.9,2,15,18,2,1,7,0.017058177,1.71,0,Active,Low,0.14584741266444326
+CUST_1619,32,Female,Europe,Basic,8.2,Carrier Billing,Yes,Annual,7.4,4,3,9,0,3,29,0.25683984,25.68,0,Active,Low,2.106086701154709
+CUST_3128,20,Male,Middle East & Africa,Basic,7.43,Direct Debit,Yes,Annual,11.3,2,8,15,1,3,22,0.12843974,12.84,0,Active,Low,0.9543072633445262
+CUST_2734,31,Female,North America,Basic,7.97,Direct Debit,No,Monthly,9.1,6,5,4,0,1,25,0.18653576,18.65,0,Active,Low,1.4866900132596492
+CUST_2496,48,Male,Asia Pacific,Standard,13.76,Direct Debit,Yes,Monthly,7.3,6,5,8,0,1,22,0.13583294,13.58,0,Active,Low,1.8690611934661865
+CUST_5851,31,Female,Europe,Basic,8.81,Digital Wallet,Yes,Monthly,7.6,3,6,7,1,3,36,0.27488184,27.49,0,Active,Low,2.421709008216858
+CUST_5712,44,Other,Asia Pacific,Basic,7.76,Direct Debit,Yes,Monthly,23.4,3,11,16,0,0,23,0.010659689,1.07,0,Active,Low,0.08271918728947639
+CUST_2350,55,Male,North America,Basic,7.76,Credit Card,Yes,Monthly,5.2,3,5,5,0,1,34,0.3045012,30.45,0,Active,Medium,2.362929356098175
+CUST_1623,18,Female,Europe,Premium,19.21,Direct Debit,Yes,Monthly,11.3,4,8,6,4,0,4,0.13398364,13.4,0,Active,Low,2.5738257601857186
+CUST_4410,32,Female,Asia Pacific,Basic,7.76,Credit Card,Yes,Annual,9.6,2,10,4,1,3,26,0.23511001,23.51,0,Active,Low,1.8244537138938903
+CUST_5521,37,Male,Europe,Basic,7.98,Credit Card,Yes,Annual,13.8,3,9,5,0,1,13,0.032458413,3.25,0,Active,Low,0.2590181388705969
+CUST_5080,32,Male,Asia Pacific,Standard,13.93,PayPal,Yes,Annual,4.4,5,3,1,0,3,30,0.418299,41.83,0,Active,Medium,5.826904924213886
+CUST_4030,48,Other,North America,Standard,13.6,PayPal,Yes,Monthly,8.1,3,7,2,1,0,30,0.22784209,22.78,0,Active,Low,3.098652458190918
+CUST_4355,53,Male,North America,Standard,14.02,PayPal,Yes,Monthly,6.5,6,4,10,1,0,22,0.13361053,13.36,0,Active,Low,1.8732196542620658
+CUST_3978,33,Male,North America,Standard,14.05,Credit Card,No,Annual,21.6,4,10,15,1,1,12,0.014381416,1.44,0,Active,Low,0.2020588967949152
+CUST_4497,41,Male,North America,Standard,14.31,Credit Card,No,Monthly,11.1,7,5,11,0,3,16,0.19618027,19.62,0,Active,Low,2.8073396511375903
+CUST_1494,25,Female,North America,Basic,7.97,Carrier Billing,Yes,Annual,9.3,5,6,10,2,2,39,0.076918304,7.69,0,Active,Low,0.6130388826131821
+CUST_3151,46,Male,North America,Standard,14.17,PayPal,Yes,Monthly,8.8,3,5,7,1,0,33,0.19925036,19.93,0,Active,Low,2.823377535492182
+CUST_1716,29,Female,North America,Basic,8.15,Credit Card,Yes,Monthly,9.2,2,6,9,0,2,24,0.19654433,19.65,0,Active,Low,1.6018363244831564
+CUST_4028,24,Male,Europe,Premium,20.19,Digital Wallet,No,Annual,9.7,5,6,10,0,1,19,0.113384254,11.34,0,Active,Low,2.2892280938476324
+CUST_3175,48,Female,Asia Pacific,Standard,14.68,Credit Card,Yes,Annual,3.8,3,5,0,0,0,24,0.30172604,30.17,0,Active,Medium,4.429338314533234
+CUST_2217,38,Male,Asia Pacific,Basic,8.35,Direct Debit,No,Monthly,13.3,5,8,11,0,1,24,0.071168944,7.12,0,Active,Low,0.5942606844007968
+CUST_1260,38,Female,Middle East & Africa,Standard,13.79,Credit Card,Yes,Monthly,11.7,4,7,6,1,0,15,0.12572294,12.57,0,Active,Low,1.733719407916069
+CUST_2345,32,Male,North America,Premium,20.26,Credit Card,Yes,Annual,7.5,7,7,6,0,0,21,0.068721905,6.87,0,Active,Low,1.3923058024048807
+CUST_5524,23,Male,Latin America,Premium,19.8,Digital Wallet,Yes,Monthly,16.0,3,10,13,0,1,10,0.07216056,7.22,0,Active,Low,1.4287790268659593
+CUST_3176,51,Male,Europe,Standard,14.31,Credit Card,Yes,Annual,7.8,5,4,5,2,0,26,0.1766174,17.66,0,Active,Low,2.5273949776589872
+CUST_1189,18,Female,Asia Pacific,Standard,14.3,Credit Card,Yes,Monthly,7.1,4,5,7,2,2,23,0.27457106,27.46,0,Active,Low,3.926366174221039
+CUST_5542,18,Female,Latin America,Basic,7.7,Direct Debit,Yes,Monthly,5.3,2,3,4,2,1,28,0.21391006,21.39,0,Active,Low,1.6471074476838112
+CUST_5955,18,Male,Latin America,Basic,7.92,PayPal,Yes,Annual,9.9,2,3,8,2,0,34,0.1289047,12.89,0,Active,Low,1.0209252262115478
+CUST_5027,30,Male,North America,Standard,14.06,Carrier Billing,Yes,Monthly,5.3,4,5,3,1,1,21,0.15751138,15.75,0,Active,Low,2.2146100491285323
+CUST_4660,34,Male,Asia Pacific,Basic,8.41,Credit Card,Yes,Monthly,10.9,3,8,5,1,1,20,0.1495449,14.95,0,Active,Low,1.2576725643873214
+CUST_2731,51,Female,Middle East & Africa,Premium,19.77,Digital Wallet,Yes,Annual,10.9,2,9,3,1,0,3,0.022971565,2.3,0,Active,Low,0.4541478381492197
+CUST_5127,38,Male,North America,Standard,14.94,Direct Debit,No,Monthly,8.6,5,6,3,3,0,20,0.29327044,29.33,0,Active,Low,4.381460357308388
+CUST_3628,48,Male,Europe,Basic,7.35,Digital Wallet,Yes,Annual,0.9,5,2,5,1,1,30,0.14933372,14.93,0,Active,Low,1.0976028084754943
+CUST_4635,24,Male,North America,Standard,13.77,Direct Debit,No,Monthly,12.0,4,6,5,0,0,15,0.06200748,6.2,0,Active,Low,0.8538429909199476
+CUST_3694,26,Female,Middle East & Africa,Premium,19.79,Carrier Billing,Yes,Annual,13.1,6,7,11,0,1,28,0.064619444,6.46,0,Active,Low,1.278818802908063
+CUST_4812,35,Female,Middle East & Africa,Basic,7.66,Credit Card,Yes,Monthly,1.8,4,1,0,0,1,26,0.4352565,43.53,0,Active,Medium,3.3340648740530017
+CUST_2677,43,Female,Asia Pacific,Standard,14.01,Credit Card,Yes,Monthly,3.1,1,2,3,1,4,31,0.53302807,53.3,1,Churned,Medium,7.467723206877708
+CUST_4409,41,Male,Middle East & Africa,Standard,14.26,Carrier Billing,Yes,Monthly,8.7,2,7,5,1,0,14,0.092425436,9.24,0,Active,Low,1.3179867142438888
+CUST_3277,47,Male,North America,Standard,14.29,Direct Debit,Yes,Annual,6.2,1,3,7,3,1,30,0.33013958,33.01,0,Active,Medium,4.7176945608854295
+CUST_1652,38,Male,North America,Premium,19.74,PayPal,Yes,Monthly,11.7,2,8,13,1,3,13,0.2449541,24.5,0,Active,Low,4.835393821299076
+CUST_2888,45,Female,Asia Pacific,Basic,8.65,Carrier Billing,Yes,Monthly,6.0,3,6,2,1,4,17,0.31685463,31.69,0,Active,Medium,2.740792514383793
+CUST_5181,42,Male,Asia Pacific,Standard,14.21,Credit Card,Yes,Monthly,5.1,1,3,4,2,0,33,0.3264185,32.64,0,Active,Medium,4.638406731784344
+CUST_5575,29,Female,Latin America,Premium,20.43,PayPal,No,Annual,9.2,1,5,5,2,1,17,0.39034715,39.03,0,Active,Medium,7.974792334735393
+CUST_2371,22,Male,Asia Pacific,Basic,8.07,Carrier Billing,Yes,Monthly,32.6,3,18,23,0,0,0,0.00855615,0.86,0,Active,Low,0.06904812969267368
+CUST_5792,38,Male,Europe,Basic,7.59,Direct Debit,Yes,Annual,7.0,3,8,7,2,1,21,0.06490646,6.49,0,Active,Low,0.49264005437493325
+CUST_5290,18,Male,Europe,Standard,14.39,PayPal,No,Monthly,11.5,4,7,9,4,2,32,0.3500278,35.0,0,Active,Medium,5.036900036334992
+CUST_3793,36,Male,Asia Pacific,Standard,14.42,Digital Wallet,No,Monthly,8.4,4,5,4,1,2,15,0.117781535,11.78,0,Active,Low,1.6984097316861153
+CUST_1664,36,Female,Asia Pacific,Basic,8.2,Credit Card,Yes,Monthly,7.8,4,2,12,1,0,33,0.2836531,28.37,0,Active,Low,2.3259555041790008
+CUST_1862,32,Male,Latin America,Standard,14.26,PayPal,No,Monthly,20.7,1,14,14,1,1,12,0.020123119,2.01,0,Active,Low,0.2869556703045964
+CUST_2340,44,Female,Asia Pacific,Standard,14.31,PayPal,Yes,Monthly,8.5,4,7,7,2,0,9,0.065935165,6.59,0,Active,Low,0.9435322067141533
+CUST_4116,28,Female,Asia Pacific,Standard,13.79,PayPal,Yes,Monthly,8.6,5,3,10,1,0,28,0.28150445,28.15,0,Active,Low,3.881946396231651
+CUST_5342,26,Female,Asia Pacific,Basic,7.85,Credit Card,Yes,Monthly,11.0,3,7,3,1,1,21,0.1564444,15.64,0,Active,Low,1.2280885443091392
+CUST_1973,23,Female,Latin America,Basic,8.37,Credit Card,Yes,Monthly,2.6,3,4,12,2,1,28,0.18818413,18.82,0,Active,Low,1.575101144760847
+CUST_5094,29,Male,Middle East & Africa,Basic,7.97,Direct Debit,Yes,Monthly,6.6,3,3,6,0,0,22,0.16092426,16.09,0,Active,Low,1.2825663191080092
+CUST_2673,18,Male,North America,Standard,13.61,PayPal,No,Monthly,3.3,4,6,2,0,1,3,0.16054067,16.05,0,Active,Low,2.1849585208296776
+CUST_2944,44,Female,North America,Basic,8.81,PayPal,Yes,Monthly,7.9,3,4,10,1,0,28,0.23869298,23.87,0,Active,Low,2.102885188907385
+CUST_3668,36,Male,North America,Basic,8.09,Direct Debit,No,Monthly,9.2,3,7,5,1,1,11,0.13476369,13.48,0,Active,Low,1.0902382346987725
+CUST_2330,45,Female,North America,Basic,8.35,Direct Debit,Yes,Monthly,2.4,2,2,7,0,0,15,0.12159636,12.16,0,Active,Low,1.0153295952826737
+CUST_1904,46,Male,Asia Pacific,Standard,13.58,Digital Wallet,Yes,Annual,6.8,3,5,9,2,0,17,0.11903103,11.9,0,Active,Low,1.6164413461089133
+CUST_1315,24,Female,North America,Standard,14.19,Direct Debit,Yes,Monthly,9.6,4,6,4,1,2,27,0.10718361,10.72,0,Active,Low,1.5209354668110608
+CUST_3835,38,Male,Middle East & Africa,Standard,13.74,Credit Card,No,Monthly,9.4,2,6,4,1,1,32,0.35005367,35.01,0,Active,Medium,4.80973739862442
+CUST_3752,34,Other,North America,Standard,14.35,PayPal,Yes,Monthly,8.1,2,5,6,1,0,21,0.13991056,13.99,0,Active,Low,2.00771659091115
+CUST_2917,40,Female,North America,Standard,14.66,Credit Card,No,Annual,21.6,1,11,17,2,2,11,0.035741497,3.57,0,Active,Low,0.5239703435450792
+CUST_4856,26,Male,Latin America,Basic,7.9,Credit Card,No,Monthly,10.4,3,9,6,1,1,21,0.17273875,17.27,0,Active,Low,1.364636091887951
+CUST_3987,56,Female,North America,Basic,7.97,Credit Card,Yes,Monthly,7.5,6,4,8,0,0,25,0.13015784,13.02,0,Active,Low,1.037358010560274
+CUST_1389,31,Male,Latin America,Basic,7.29,PayPal,No,Monthly,8.3,2,3,5,1,3,24,0.3483011,34.83,0,Active,Medium,2.539115111231804
+CUST_5743,32,Female,North America,Standard,14.06,Credit Card,Yes,Annual,4.9,1,5,0,0,1,27,0.1840039,18.4,0,Active,Low,2.587094896733761
+CUST_5860,25,Female,Asia Pacific,Basic,7.82,PayPal,Yes,Monthly,10.1,3,6,7,2,2,24,0.08987893,8.99,0,Active,Low,0.7028532454371452
+CUST_1921,39,Male,Asia Pacific,Basic,8.13,Direct Debit,No,Monthly,6.8,4,2,0,1,0,24,0.44738507,44.74,0,Active,Medium,3.637240641117096
+CUST_1882,36,Female,North America,Standard,14.83,PayPal,Yes,Annual,8.3,4,5,3,1,3,28,0.1844482,18.44,0,Active,Low,2.7353667686879635
+CUST_2458,28,Female,Asia Pacific,Standard,14.12,Carrier Billing,Yes,Monthly,6.5,4,7,7,1,1,26,0.16896059,16.9,0,Active,Low,2.3857234770059583
+CUST_5114,30,Female,Europe,Standard,13.83,Credit Card,Yes,Annual,26.4,2,14,14,0,0,9,0.032312445,3.23,0,Active,Low,0.44688111908733846
+CUST_3063,45,Female,Asia Pacific,Standard,13.28,Direct Debit,Yes,Annual,3.6,2,3,1,1,0,27,0.45895314,45.9,0,Active,Medium,6.094897727966308
+CUST_5680,38,Female,Latin America,Premium,19.84,PayPal,No,Monthly,10.3,1,9,3,4,0,20,0.30106813,30.11,0,Active,Medium,5.973191642761231
+CUST_2447,38,Female,Middle East & Africa,Premium,20.89,Direct Debit,No,Monthly,7.5,3,7,10,1,1,14,0.15636374,15.64,0,Active,Low,3.2664385403692724
+CUST_5517,18,Male,Latin America,Standard,14.04,Digital Wallet,Yes,Monthly,15.4,1,7,8,1,2,21,0.07302595,7.3,0,Active,Low,1.02528432816267
+CUST_3878,34,Male,North America,Standard,14.17,Credit Card,No,Monthly,5.7,4,4,7,2,0,36,0.36856696,36.86,0,Active,Medium,5.22259382456541
+CUST_3765,29,Male,Asia Pacific,Basic,7.7,Direct Debit,Yes,Monthly,16.8,2,10,11,1,1,17,0.038532585,3.85,0,Active,Low,0.2967009037733078
+CUST_4135,47,Male,North America,Standard,13.56,Credit Card,No,Annual,6.7,6,2,7,0,2,23,0.21564417,21.56,0,Active,Low,2.924134889245033
+CUST_5884,41,Male,Latin America,Basic,7.92,Credit Card,No,Annual,7.1,6,3,7,3,1,31,0.25224078,25.22,0,Active,Low,1.9977469539642334
+CUST_3398,42,Male,North America,Basic,8.75,Credit Card,Yes,Monthly,7.4,4,4,7,1,5,28,0.39397186,39.4,0,Active,Medium,3.447253778576851
+CUST_1818,31,Female,Asia Pacific,Standard,14.08,PayPal,Yes,Monthly,8.4,4,3,12,1,2,33,0.3782692,37.83,0,Active,Medium,5.3260302734375005
+CUST_2701,46,Male,Europe,Premium,20.16,Credit Card,Yes,Annual,18.2,3,9,12,2,2,23,0.030590752,3.06,0,Active,Low,0.6167095631361008
+CUST_3281,42,Male,North America,Standard,13.55,Direct Debit,No,Monthly,2.1,4,3,4,1,1,30,0.4427835,44.28,0,Active,Medium,5.99971648901701
+CUST_5312,26,Female,Asia Pacific,Premium,19.8,Digital Wallet,Yes,Annual,9.8,3,7,12,0,2,21,0.08223587,8.22,0,Active,Low,1.6282702803611755
+CUST_4615,30,Other,Latin America,Standard,14.23,Direct Debit,No,Monthly,5.5,5,5,5,0,0,36,0.2374483,23.74,0,Active,Low,3.378889378607273
+CUST_5606,29,Female,Asia Pacific,Basic,7.84,Credit Card,Yes,Monthly,4.4,3,7,6,1,1,25,0.25045687,25.05,0,Active,Low,1.9635818576812745
+CUST_5291,34,Female,Asia Pacific,Basic,8.31,Credit Card,No,Monthly,9.7,4,5,1,1,0,33,0.21980838,21.98,0,Active,Low,1.8266076774895192
+CUST_4867,26,Female,Latin America,Standard,13.24,Carrier Billing,No,Monthly,11.8,1,6,15,1,0,23,0.23287429,23.29,0,Active,Low,3.083255588412285
+CUST_4957,43,Other,Latin America,Premium,19.41,Credit Card,No,Annual,9.1,3,4,2,1,1,26,0.38926092,38.93,0,Active,Medium,7.555554416477681
+CUST_4207,24,Male,Asia Pacific,Basic,7.97,PayPal,Yes,Annual,8.9,4,6,0,2,1,23,0.099741876,9.97,0,Active,Low,0.7949427527189254
+CUST_1922,18,Male,Latin America,Premium,19.83,Credit Card,Yes,Annual,20.9,2,12,15,0,2,14,0.018405885,1.84,0,Active,Low,0.3649886897206306
+CUST_3051,37,Other,North America,Premium,20.06,Direct Debit,No,Monthly,9.2,1,7,7,0,0,15,0.13799913,13.8,0,Active,Low,2.7682625934481617
+CUST_4173,42,Female,North America,Standard,14.3,Digital Wallet,Yes,Monthly,8.7,4,8,5,1,1,9,0.075674094,7.57,0,Active,Low,1.0821395479142666
+CUST_2531,19,Female,Europe,Basic,7.76,Credit Card,No,Monthly,5.2,4,4,8,1,0,33,0.21595994,21.6,0,Active,Low,1.675849106311798
+CUST_1383,35,Female,Asia Pacific,Premium,20.31,Digital Wallet,Yes,Annual,6.0,5,6,2,0,1,18,0.13344957,13.34,0,Active,Low,2.7103607533872127
+CUST_3953,34,Female,Europe,Basic,8.73,Digital Wallet,Yes,Monthly,24.7,2,13,13,1,0,0,0.030978115,3.1,0,Active,Low,0.27043894635513427
+CUST_1605,42,Female,Asia Pacific,Premium,20.49,Credit Card,Yes,Annual,16.6,3,8,17,0,2,17,0.11050799,11.05,0,Active,Low,2.264308662638068
+CUST_5454,23,Female,North America,Standard,14.04,Digital Wallet,No,Monthly,14.6,6,7,5,2,0,22,0.0722039,7.22,0,Active,Low,1.013742713034153
+CUST_4886,46,Male,Europe,Basic,8.48,Credit Card,Yes,Monthly,7.1,2,4,2,2,1,16,0.2661268,26.61,0,Active,Low,2.256755361557007
+CUST_4061,52,Female,Asia Pacific,Standard,14.26,Credit Card,No,Monthly,10.6,3,6,5,1,0,32,0.22116943,22.12,0,Active,Low,3.153876029551029
+CUST_5907,26,Female,Latin America,Premium,20.05,Credit Card,Yes,Monthly,18.3,4,11,16,2,0,5,0.0076739644,0.77,0,Active,Low,0.15386298561934383
+CUST_4753,60,Male,Latin America,Standard,14.51,PayPal,Yes,Monthly,3.8,1,3,0,2,1,27,0.46092728,46.09,0,Active,Medium,6.688054800927639
+CUST_4776,18,Male,North America,Standard,13.57,Digital Wallet,No,Annual,5.4,3,4,9,0,1,13,0.088162206,8.82,0,Active,Low,1.1963611369580032
+CUST_4920,28,Male,North America,Standard,14.15,PayPal,Yes,Monthly,13.0,1,8,7,0,0,19,0.08599006,8.6,0,Active,Low,1.2167592979967594
+CUST_4928,33,Male,Asia Pacific,Premium,19.73,Carrier Billing,No,Monthly,13.7,3,9,10,1,2,19,0.113741025,11.37,0,Active,Low,2.2441104297339916
+CUST_2320,35,Male,Latin America,Premium,19.73,Digital Wallet,No,Monthly,10.3,5,6,6,1,2,23,0.27818635,27.82,0,Active,Low,5.488616706430912
+CUST_4388,18,Female,Latin America,Premium,20.46,Direct Debit,No,Annual,7.8,1,7,1,2,1,20,0.16896883,16.9,0,Active,Low,3.4571021908521655
+CUST_5857,40,Female,North America,Standard,13.47,Credit Card,No,Monthly,6.0,2,5,2,0,4,33,0.5075688,50.76,1,Churned,Medium,6.8369514209032065
+CUST_4591,35,Female,North America,Premium,20.19,Credit Card,Yes,Annual,3.8,4,2,5,2,2,31,0.37748048,37.75,0,Active,Medium,7.621330832540989
+CUST_3375,22,Male,Europe,Standard,13.95,Digital Wallet,Yes,Monthly,4.5,6,4,6,0,1,38,0.35882905,35.88,0,Active,Medium,5.005665265023708
+CUST_3379,26,Female,Asia Pacific,Basic,7.74,Credit Card,Yes,Monthly,7.1,4,6,3,2,0,26,0.11396287,11.4,0,Active,Low,0.8820725856721402
+CUST_4126,18,Female,North America,Basic,8.06,Carrier Billing,Yes,Annual,12.3,2,5,13,4,2,18,0.1531231,15.31,0,Active,Low,1.2341721507906915
+CUST_3570,29,Female,North America,Premium,20.39,Carrier Billing,Yes,Annual,5.4,5,3,4,0,2,27,0.17011142,17.01,0,Active,Low,3.4685718083381656
+CUST_4801,22,Female,North America,Basic,8.07,Direct Debit,Yes,Monthly,5.0,6,3,1,0,2,20,0.109949864,10.99,0,Active,Low,0.887295406088233
+CUST_3411,18,Male,Middle East & Africa,Standard,14.36,Direct Debit,No,Annual,15.3,5,9,8,0,2,13,0.02418597,2.42,0,Active,Low,0.3473105353116989
+CUST_3472,18,Female,Middle East & Africa,Premium,20.47,Direct Debit,Yes,Monthly,5.8,3,3,8,1,1,23,0.32684085,32.68,0,Active,Medium,6.690432153046131
+CUST_4948,20,Female,Asia Pacific,Basic,8.06,Carrier Billing,Yes,Annual,8.6,6,8,2,0,1,10,0.09963963,9.96,0,Active,Low,0.8030954323709012
+CUST_4815,34,Female,North America,Standard,13.83,Direct Debit,Yes,Monthly,12.5,2,9,7,1,0,12,0.08107439,8.11,0,Active,Low,1.121258769929409
+CUST_1464,32,Female,Latin America,Basic,8.03,PayPal,Yes,Annual,4.3,1,2,9,1,1,33,0.2937571,29.38,0,Active,Low,2.358869599997997
+CUST_2423,38,Male,Asia Pacific,Standard,13.74,Credit Card,Yes,Monthly,14.8,3,11,7,2,0,18,0.03141046,3.14,0,Active,Low,0.4315797125548124
+CUST_4288,47,Male,North America,Standard,13.98,PayPal,Yes,Monthly,15.7,6,7,11,0,5,28,0.07254504,7.25,0,Active,Low,1.0141796126961709
+CUST_3869,37,Female,Asia Pacific,Premium,20.21,PayPal,Yes,Annual,16.4,3,6,11,4,3,24,0.19785842,19.79,0,Active,Low,3.998718728721142
+CUST_4442,36,Female,Asia Pacific,Basic,8.23,Credit Card,Yes,Annual,17.5,4,11,10,0,2,15,0.027627656,2.76,0,Active,Low,0.2273756108246744
+CUST_2116,49,Female,Middle East & Africa,Basic,7.65,Credit Card,No,Monthly,16.9,2,11,8,2,2,14,0.075775705,7.58,0,Active,Low,0.5796841453760863
+CUST_4822,23,Male,Europe,Standard,13.5,Credit Card,Yes,Monthly,7.8,5,5,4,0,0,23,0.1238045,12.38,0,Active,Low,1.6713607795536518
+CUST_4836,30,Male,Latin America,Standard,13.73,Digital Wallet,No,Annual,11.5,2,8,6,0,0,20,0.07753314,7.75,0,Active,Low,1.0645300228893757
+CUST_5204,26,Male,Asia Pacific,Standard,13.89,Direct Debit,Yes,Monthly,5.8,4,4,6,3,1,43,0.26634216,26.63,0,Active,Low,3.699492645263672
+CUST_3746,31,Male,North America,Premium,19.7,Credit Card,Yes,Monthly,12.7,2,8,8,1,1,20,0.28060532,28.06,0,Active,Low,5.527924728393555
+CUST_2853,38,Female,Latin America,Standard,13.95,Credit Card,No,Monthly,8.1,7,4,4,1,0,20,0.2323716,23.24,0,Active,Low,3.2415837988257405
+CUST_3194,25,Male,North America,Basic,7.86,Direct Debit,No,Annual,10.3,4,5,7,1,1,19,0.051311146,5.13,0,Active,Low,0.4033056112378836
+CUST_1020,37,Male,Europe,Standard,14.1,Direct Debit,Yes,Annual,3.0,1,1,6,2,1,15,0.13805397,13.81,0,Active,Low,1.9465609565377235
+CUST_4461,28,Male,Europe,Standard,14.52,Credit Card,Yes,Monthly,20.2,3,8,7,2,1,13,0.07065569,7.07,0,Active,Low,1.0259205991029738
+CUST_1411,40,Male,Asia Pacific,Standard,14.61,Direct Debit,Yes,Monthly,16.5,4,13,11,0,2,16,0.064888306,6.49,0,Active,Low,0.9480181501060724
+CUST_3775,51,Male,Asia Pacific,Standard,13.97,Carrier Billing,Yes,Monthly,9.7,3,8,10,2,1,30,0.12412634,12.41,0,Active,Low,1.734044934436679
+CUST_5387,35,Female,North America,Basic,7.45,Carrier Billing,Yes,Monthly,16.9,5,13,13,1,1,22,0.043636177,4.36,0,Active,Low,0.3250895166769624
+CUST_1473,29,Female,Europe,Basic,8.09,Credit Card,No,Monthly,3.9,3,4,7,4,3,26,0.5995095,59.95,1,Churned,Medium,4.850031673908234
+CUST_5487,52,Female,North America,Standard,13.43,Digital Wallet,No,Monthly,9.6,4,6,11,0,1,14,0.051851597,5.19,0,Active,Low,0.6963669434562325
+CUST_2784,30,Female,Europe,Basic,7.04,Carrier Billing,Yes,Monthly,12.6,5,9,10,0,1,17,0.067908704,6.79,0,Active,Low,0.478077278137207
+CUST_4051,33,Male,Asia Pacific,Premium,20.6,Direct Debit,Yes,Annual,9.7,2,8,11,0,3,9,0.07603197,7.6,0,Active,Low,1.56625854074955
+CUST_5239,40,Male,North America,Standard,12.87,Carrier Billing,Yes,Annual,11.7,2,9,11,0,1,0,0.015282842,1.53,0,Active,Low,0.1966901807952672
+CUST_4623,21,Male,Middle East & Africa,Standard,14.06,Credit Card,Yes,Monthly,6.8,3,3,5,1,0,21,0.18044837,18.04,0,Active,Low,2.53710405677557
+CUST_3252,36,Male,Asia Pacific,Standard,14.0,Digital Wallet,No,Monthly,6.3,1,2,4,1,2,27,0.3124309,31.24,0,Active,Medium,4.374032437801361
+CUST_3274,29,Male,Latin America,Premium,20.41,Direct Debit,Yes,Monthly,17.4,5,11,14,0,0,9,0.069664754,6.97,0,Active,Low,1.4218576285988092
+CUST_1432,37,Female,Asia Pacific,Standard,13.65,PayPal,Yes,Monthly,26.3,3,14,15,1,0,0,0.014357881,1.44,0,Active,Low,0.19598507140763105
+CUST_1520,36,Female,Europe,Premium,19.37,Credit Card,Yes,Annual,3.6,4,2,0,1,3,29,0.34089285,34.09,0,Active,Medium,6.603094530701638
+CUST_4153,35,Male,Middle East & Africa,Standard,14.1,Digital Wallet,Yes,Annual,11.5,2,7,11,1,0,25,0.07237396,7.24,0,Active,Low,1.0204727858304976
+CUST_5215,31,Male,Europe,Standard,13.36,Credit Card,Yes,Annual,8.6,2,6,3,2,1,16,0.18036515,18.04,0,Active,Low,2.409678339958191
+CUST_3029,18,Female,North America,Standard,14.0,Direct Debit,Yes,Monthly,13.3,3,10,6,1,3,20,0.04502168,4.5,0,Active,Low,0.6303035095334053
+CUST_3090,38,Female,Europe,Standard,14.83,Direct Debit,Yes,Annual,11.6,3,8,12,1,2,21,0.21131903,21.13,0,Active,Low,3.133861204981804
+CUST_4270,30,Female,Europe,Basic,8.15,Credit Card,Yes,Annual,4.9,5,5,9,0,1,17,0.11338516,11.34,0,Active,Low,0.9240890804678202
+CUST_1941,24,Male,North America,Basic,8.11,Credit Card,Yes,Monthly,9.8,2,6,7,0,1,21,0.100838125,10.08,0,Active,Low,0.8177971917390823
+CUST_4562,43,Male,Asia Pacific,Standard,13.64,Digital Wallet,No,Annual,7.7,1,8,5,1,1,15,0.119735636,11.97,0,Active,Low,1.6331940725445748
+CUST_1653,35,Male,Europe,Standard,14.2,Credit Card,No,Monthly,3.4,2,4,5,2,2,34,0.58356357,58.36,1,Churned,Medium,8.286602640151978
+CUST_5297,18,Male,Asia Pacific,Standard,14.07,Credit Card,Yes,Annual,17.2,5,13,16,2,2,6,0.019394087,1.94,0,Active,Low,0.27287479950115084
+CUST_4708,18,Female,Asia Pacific,Standard,14.2,PayPal,Yes,Monthly,20.5,3,12,16,1,2,1,0.0057514273,0.58,0,Active,Low,0.08167026713490486
+CUST_1114,31,Female,Middle East & Africa,Standard,13.79,Credit Card,Yes,Monthly,4.7,4,7,6,0,3,12,0.30361712,30.36,0,Active,Medium,4.1868800818920135
+CUST_5903,50,Female,Middle East & Africa,Basic,7.92,Credit Card,No,Monthly,4.6,4,3,7,1,2,25,0.3169532,31.7,0,Active,Medium,2.5102694392204286
+CUST_5921,42,Male,Middle East & Africa,Standard,13.55,Carrier Billing,No,Annual,12.4,6,6,8,1,2,22,0.1504234,15.04,0,Active,Low,2.0382369704544545
+CUST_5564,46,Male,North America,Premium,19.59,PayPal,Yes,Annual,15.5,2,9,14,3,0,19,0.051466804,5.15,0,Active,Low,1.0082346903160215
+CUST_2872,40,Other,Asia Pacific,Standard,14.23,Credit Card,Yes,Monthly,11.7,3,8,8,0,0,28,0.15171564,15.17,0,Active,Low,2.158913503885269
+CUST_1046,29,Female,Middle East & Africa,Premium,19.49,Direct Debit,Yes,Monthly,8.4,5,6,7,1,1,29,0.2437635,24.38,0,Active,Low,4.750950739979744
+CUST_4944,44,Female,North America,Standard,13.89,Credit Card,Yes,Monthly,7.4,4,5,7,0,0,17,0.14798,14.8,0,Active,Low,2.055442263185978
+CUST_5663,21,Male,Asia Pacific,Standard,13.77,Digital Wallet,Yes,Monthly,8.4,2,8,8,2,0,6,0.09394356,9.39,0,Active,Low,1.2936028023809194
+CUST_5319,18,Male,Asia Pacific,Premium,20.56,Direct Debit,No,Annual,15.4,2,6,12,3,3,36,0.21666813,21.67,0,Active,Low,4.454696731567383
+CUST_4979,45,Male,North America,Standard,14.32,PayPal,Yes,Monthly,6.3,2,7,7,4,1,25,0.28896144,28.9,0,Active,Low,4.137927825450897
+CUST_4818,42,Male,North America,Basic,8.4,Carrier Billing,Yes,Monthly,5.1,3,6,3,2,0,26,0.16227944,16.23,0,Active,Low,1.3631473124027254
+CUST_4533,41,Female,North America,Standard,14.23,Carrier Billing,No,Monthly,10.1,3,9,9,0,0,24,0.15317117,15.32,0,Active,Low,2.1796257032454016
+CUST_4158,43,Male,North America,Basic,7.94,Credit Card,Yes,Monthly,9.7,3,7,9,2,1,27,0.23910177,23.91,0,Active,Low,1.8984680342674256
+CUST_4571,20,Male,Europe,Standard,14.69,Digital Wallet,Yes,Annual,11.2,7,6,10,0,1,19,0.111265466,11.13,0,Active,Low,1.6344896899163723
+CUST_5128,35,Male,Europe,Standard,14.16,Credit Card,Yes,Monthly,17.5,1,6,12,1,1,18,0.14704297,14.7,0,Active,Low,2.0821285235881803
+CUST_4534,37,Male,Middle East & Africa,Basic,7.72,Credit Card,Yes,Monthly,7.3,3,4,8,1,1,31,0.2235847,22.36,0,Active,Low,1.726073858141899
+CUST_3093,29,Male,Middle East & Africa,Standard,14.49,Credit Card,No,Monthly,5.4,3,6,7,0,1,21,0.15639517,15.64,0,Active,Low,2.266165971457958
+CUST_4535,48,Female,North America,Standard,13.67,Direct Debit,Yes,Monthly,6.1,2,5,11,0,0,13,0.091937274,9.19,0,Active,Low,1.2567825320363044
+CUST_4821,43,Male,Middle East & Africa,Standard,13.51,PayPal,Yes,Monthly,7.1,3,3,9,1,0,25,0.22723837,22.72,0,Active,Low,3.069990405291319
+CUST_2817,48,Male,Latin America,Standard,13.61,PayPal,Yes,Annual,7.2,2,6,8,1,1,21,0.08196586,8.2,0,Active,Low,1.1155554050207137
+CUST_5590,31,Male,Europe,Premium,19.73,Credit Card,Yes,Annual,12.2,4,9,5,1,3,14,0.12134715,12.13,0,Active,Low,2.3941793029755356
+CUST_4316,29,Male,Asia Pacific,Basic,8.38,PayPal,Yes,Annual,8.7,2,6,6,1,2,18,0.11624284,11.62,0,Active,Low,0.9741150066256524
+CUST_5849,36,Male,Middle East & Africa,Basic,8.42,Digital Wallet,No,Annual,6.3,3,6,10,0,0,20,0.050912205,5.09,0,Active,Low,0.4286807671934366
+CUST_1800,18,Male,Latin America,Standard,14.07,Credit Card,No,Monthly,8.8,2,5,5,0,1,25,0.3035343,30.35,0,Active,Medium,4.270727588832378
+CUST_2926,28,Female,Europe,Basic,8.22,Credit Card,Yes,Annual,9.6,2,6,15,0,1,28,0.19474165,19.47,0,Active,Low,1.6007763746380808
+CUST_4457,32,Male,Asia Pacific,Premium,19.96,Digital Wallet,Yes,Monthly,7.9,4,7,4,1,2,16,0.17448643,17.45,0,Active,Low,3.482749112844467
+CUST_3399,38,Male,Asia Pacific,Basic,7.9,Direct Debit,Yes,Monthly,6.8,5,7,5,0,2,23,0.20019124,20.02,0,Active,Low,1.5815108314156534
+CUST_2884,41,Female,Asia Pacific,Standard,13.88,Credit Card,No,Monthly,2.9,5,2,9,1,1,25,0.3202459,32.02,0,Active,Medium,4.445012978315353
+CUST_2538,32,Female,Asia Pacific,Standard,14.47,Credit Card,Yes,Annual,2.4,5,3,5,1,1,19,0.19029254,19.03,0,Active,Low,2.7535330134630205
+CUST_2329,31,Female,Middle East & Africa,Basic,7.72,Credit Card,Yes,Monthly,7.1,4,1,7,0,2,31,0.26510337,26.51,0,Active,Low,2.0465980160236357
+CUST_5498,39,Female,Middle East & Africa,Standard,13.75,Credit Card,Yes,Monthly,6.2,3,7,9,1,1,33,0.26944193,26.94,0,Active,Low,3.704826571047306
+CUST_3908,25,Female,Middle East & Africa,Basic,7.91,PayPal,Yes,Monthly,3.4,2,5,5,2,3,27,0.27668712,27.67,0,Active,Low,2.1885950830578804
+CUST_3573,56,Male,North America,Standard,13.6,Carrier Billing,No,Monthly,11.1,4,7,10,1,1,22,0.14767967,14.77,0,Active,Low,2.008443534374237
+CUST_2943,21,Female,Asia Pacific,Standard,13.64,PayPal,Yes,Annual,5.0,2,2,7,4,0,33,0.33666262,33.67,0,Active,Medium,4.592078140974045
+CUST_3109,39,Male,Europe,Basic,8.25,Credit Card,Yes,Annual,6.5,6,3,10,1,0,31,0.19150695,19.15,0,Active,Low,1.5799323543906212
+CUST_5112,19,Female,Asia Pacific,Premium,20.25,Credit Card,Yes,Monthly,11.9,4,6,9,1,1,26,0.1710185,17.1,0,Active,Low,3.4631245471537113
+CUST_2871,48,Female,Middle East & Africa,Basic,7.86,PayPal,Yes,Monthly,4.8,5,7,2,1,0,16,0.065749794,6.57,0,Active,Low,0.5167933827638627
+CUST_5783,33,Male,Latin America,Premium,20.04,Credit Card,Yes,Annual,13.2,3,6,8,2,3,15,0.12707883,12.71,0,Active,Low,2.546659777164459
+CUST_5638,32,Male,Latin America,Standard,14.21,PayPal,Yes,Monthly,11.6,5,6,10,3,2,13,0.12054701,12.05,0,Active,Low,1.7129730333387854
+CUST_2703,46,Female,North America,Standard,13.83,Credit Card,No,Monthly,6.3,3,4,5,1,3,34,0.653702,65.37,1,Churned,High,9.040698945522308
+CUST_1371,33,Male,North America,Standard,13.68,Direct Debit,Yes,Monthly,11.4,5,5,11,2,0,14,0.15839934,15.84,0,Active,Low,2.166903018951416
+CUST_2945,28,Male,North America,Premium,20.36,Direct Debit,Yes,Monthly,11.5,4,8,11,0,2,30,0.30059844,30.06,0,Active,Medium,6.120184290409088
+CUST_1881,47,Female,Asia Pacific,Standard,12.8,PayPal,Yes,Monthly,9.0,1,8,14,0,1,27,0.111136995,11.11,0,Active,Low,1.422553539276123
+CUST_5640,46,Female,Middle East & Africa,Basic,8.02,Direct Debit,Yes,Annual,14.9,5,11,10,1,1,10,0.03489283,3.49,0,Active,Low,0.27984050460159776
+CUST_2510,39,Male,Middle East & Africa,Standard,13.8,Credit Card,Yes,Monthly,19.7,4,11,15,1,1,17,0.02551003,2.55,0,Active,Low,0.35203841216862203
+CUST_1811,33,Female,Latin America,Basic,7.68,Carrier Billing,Yes,Monthly,10.0,5,5,7,0,1,25,0.09381359,9.38,0,Active,Low,0.7204883766174316
+CUST_1632,36,Female,Middle East & Africa,Premium,20.13,Credit Card,Yes,Monthly,5.1,6,1,7,0,1,21,0.2600847,26.01,0,Active,Low,5.235504782795906
+CUST_1852,28,Female,Asia Pacific,Basic,7.23,Direct Debit,Yes,Monthly,3.5,4,3,11,1,1,25,0.1495363,14.95,0,Active,Low,1.0811474253237248
+CUST_4881,30,Female,Europe,Standard,13.75,PayPal,No,Monthly,14.3,1,7,14,0,1,27,0.2218657,22.19,0,Active,Low,3.0506533570587635
+CUST_2239,21,Other,Asia Pacific,Basic,7.6,Credit Card,Yes,Annual,2.9,2,2,4,1,0,37,0.27466717,27.47,0,Active,Low,2.087470519542694
+CUST_2233,30,Male,North America,Basic,7.92,PayPal,No,Monthly,13.3,6,5,11,2,2,32,0.16039862,16.04,0,Active,Low,1.270357049703598
+CUST_5241,37,Female,Latin America,Premium,19.7,PayPal,Yes,Monthly,9.8,4,6,7,0,0,30,0.17684816,17.68,0,Active,Low,3.48390871733427
+CUST_3250,40,Male,Europe,Basic,7.72,PayPal,Yes,Monthly,24.1,1,11,15,2,1,18,0.058885515,5.89,0,Active,Low,0.45459617376327516
+CUST_1021,22,Male,Middle East & Africa,Standard,13.83,Digital Wallet,No,Monthly,6.5,4,4,8,0,1,30,0.1380934,13.81,0,Active,Low,1.909831680804491
+CUST_5048,29,Female,Middle East & Africa,Basic,7.99,Credit Card,Yes,Monthly,19.2,2,12,16,1,1,11,0.031992,3.2,0,Active,Low,0.2556160767748952
+CUST_3020,42,Male,North America,Standard,13.63,Carrier Billing,Yes,Annual,17.0,2,8,11,0,0,0,0.0073052985,0.73,0,Active,Low,0.0995712180947885
+CUST_2492,29,Male,Latin America,Premium,20.21,Credit Card,Yes,Annual,10.9,4,6,11,1,4,27,0.17335449,17.34,0,Active,Low,3.5034942750632765
+CUST_2471,56,Female,Asia Pacific,Premium,19.99,Direct Debit,Yes,Annual,19.6,3,12,14,2,1,13,0.018231777,1.82,0,Active,Low,0.3644532317109406
+CUST_2927,39,Male,North America,Standard,13.83,Credit Card,Yes,Monthly,5.5,4,2,3,2,0,38,0.36163262,36.16,0,Active,Medium,5.001379069983959
+CUST_2036,40,Male,Latin America,Standard,14.17,Credit Card,Yes,Annual,6.6,3,4,13,0,2,30,0.28380147,28.38,0,Active,Low,4.021466776430607
+CUST_2247,27,Male,Asia Pacific,Standard,13.48,Direct Debit,Yes,Annual,10.7,1,4,12,1,0,25,0.1357043,13.57,0,Active,Low,1.829293881058693
+CUST_3503,31,Male,Asia Pacific,Premium,19.71,Direct Debit,Yes,Annual,9.1,3,7,6,0,0,3,0.027884606,2.79,0,Active,Low,0.549605589620769
+CUST_4880,32,Female,Latin America,Standard,13.87,Credit Card,No,Monthly,12.4,3,8,5,3,3,33,0.42081243,42.08,0,Active,Medium,5.8366683763265605
+CUST_4481,18,Male,North America,Standard,14.02,PayPal,Yes,Monthly,16.4,4,9,14,0,0,23,0.056031033,5.6,0,Active,Low,0.7855550882220268
+CUST_2464,38,Female,Europe,Basic,8.21,Credit Card,Yes,Monthly,17.6,6,10,15,1,0,20,0.021497777,2.15,0,Active,Low,0.17649674696847797
+CUST_2118,39,Male,Middle East & Africa,Premium,20.07,PayPal,Yes,Monthly,6.8,3,4,4,1,0,27,0.363409,36.34,0,Active,Medium,7.293618882000446
+CUST_4094,47,Female,North America,Premium,19.9,Credit Card,Yes,Monthly,6.5,2,4,5,1,0,27,0.5148678,51.49,1,Churned,Medium,10.24586887359619
+CUST_4211,33,Male,North America,Standard,13.85,Credit Card,No,Monthly,3.5,3,3,0,1,0,37,0.3456292,34.56,0,Active,Medium,4.786964218318462
+CUST_5565,37,Male,North America,Basic,7.54,PayPal,Yes,Annual,4.7,2,2,6,1,3,30,0.4444045,44.44,0,Active,Medium,3.3508100253343582
+CUST_3058,38,Male,Asia Pacific,Standard,13.74,Direct Debit,Yes,Monthly,7.0,5,3,10,1,1,21,0.1954824,19.55,0,Active,Low,2.685928217768669
+CUST_4871,31,Male,Latin America,Standard,13.22,Credit Card,Yes,Monthly,8.9,1,7,4,0,1,17,0.24464628,24.46,0,Active,Low,3.234223834872246
+CUST_4469,25,Female,Middle East & Africa,Basic,8.09,PayPal,Yes,Monthly,2.7,3,2,0,1,0,26,0.22351278,22.35,0,Active,Low,1.8082184197008608
+CUST_5006,32,Female,Latin America,Basic,8.16,Credit Card,Yes,Annual,10.7,1,7,6,0,1,27,0.14883165,14.88,0,Active,Low,1.214466269016266
+CUST_3092,19,Male,North America,Premium,20.06,Credit Card,Yes,Monthly,4.7,2,1,7,2,1,28,0.30722678,30.72,0,Active,Medium,6.162969148159027
+CUST_1827,48,Male,North America,Standard,14.07,Direct Debit,No,Monthly,8.2,3,9,6,2,1,21,0.17280243,17.28,0,Active,Low,2.4313302375376225
+CUST_4956,48,Male,Middle East & Africa,Standard,13.59,Carrier Billing,Yes,Annual,9.9,3,6,4,0,0,25,0.1362072,13.62,0,Active,Low,1.8510557547211648
+CUST_4367,19,Female,Europe,Standard,13.85,PayPal,Yes,Monthly,12.3,3,6,8,0,1,6,0.050773293,5.08,0,Active,Low,0.7032101050019264
+CUST_2953,37,Male,Latin America,Standard,14.06,Credit Card,No,Monthly,13.2,3,9,4,2,0,11,0.03897724,3.9,0,Active,Low,0.5480199842900038
+CUST_5559,37,Male,Middle East & Africa,Basic,7.85,Direct Debit,Yes,Monthly,18.1,5,10,14,3,2,16,0.025855113,2.59,0,Active,Low,0.20296263564378023
+CUST_4669,38,Male,Asia Pacific,Standard,14.75,PayPal,Yes,Annual,21.6,4,12,17,0,0,13,0.009587463,0.96,0,Active,Low,0.14141507912427187
+CUST_4899,28,Female,Europe,Basic,7.59,Direct Debit,Yes,Monthly,8.0,1,5,3,3,0,24,0.21399781,21.4,0,Active,Low,1.6242433860898018
+CUST_5038,18,Female,North America,Premium,20.19,Direct Debit,Yes,Monthly,8.0,3,3,7,0,2,29,0.30776444,30.78,0,Active,Medium,6.2137640592455865
+CUST_2319,37,Female,Asia Pacific,Standard,14.18,PayPal,Yes,Monthly,8.6,3,8,7,1,1,23,0.14250243,14.25,0,Active,Low,2.020684416294098
+CUST_5444,45,Male,North America,Premium,19.49,PayPal,Yes,Monthly,12.5,5,9,9,0,0,10,0.1071673,10.72,0,Active,Low,2.088690746426582
+CUST_2937,18,Male,Europe,Standard,14.01,PayPal,No,Monthly,4.0,3,3,0,0,1,35,0.57768685,57.77,1,Churned,Medium,8.093392716050149
+CUST_1762,30,Female,Asia Pacific,Basic,7.85,Credit Card,Yes,Annual,4.7,4,5,6,1,3,11,0.23132485,23.13,0,Active,Low,1.815900084376335
+CUST_4340,19,Female,North America,Standard,14.28,Credit Card,Yes,Annual,3.5,2,3,12,0,2,23,0.15849096,15.85,0,Active,Low,2.2632508492469787
+CUST_2309,26,Male,Europe,Basic,8.01,Direct Debit,Yes,Annual,5.8,6,5,5,0,0,26,0.07112254,7.11,0,Active,Low,0.5696915616095066
+CUST_4847,33,Male,Asia Pacific,Standard,14.24,Credit Card,No,Annual,26.5,1,16,15,1,1,0,0.01794451,1.79,0,Active,Low,0.25552981048822404
+CUST_5671,45,Female,North America,Basic,7.83,PayPal,Yes,Monthly,8.3,2,4,8,1,1,18,0.1837925,18.38,0,Active,Low,1.4390952882170678
+CUST_4293,22,Male,Middle East & Africa,Standard,13.74,Credit Card,Yes,Monthly,6.6,3,6,7,1,2,0,0.017169563,1.72,0,Active,Low,0.2359097969904542
+CUST_1859,36,Male,Europe,Standard,14.22,Carrier Billing,Yes,Monthly,6.9,3,6,7,2,1,24,0.20000425,20.0,0,Active,Low,2.844060432314873
+CUST_4518,23,Female,Middle East & Africa,Basic,7.75,Direct Debit,Yes,Annual,10.4,2,5,6,0,1,35,0.1228542,12.29,0,Active,Low,0.9521200731396675
+CUST_2752,30,Male,North America,Basic,8.11,Digital Wallet,Yes,Monthly,8.9,2,5,5,2,0,24,0.25180125,25.18,0,Active,Low,2.042108156681061
+CUST_4110,23,Female,Europe,Premium,19.96,Credit Card,No,Monthly,9.2,7,8,5,1,1,4,0.07521901,7.52,0,Active,Low,1.5013714954257011
+CUST_2354,40,Male,Europe,Basic,7.96,PayPal,Yes,Monthly,8.4,3,5,4,3,0,48,0.17741668,17.74,0,Active,Low,1.4122367906570434
+CUST_3057,35,Female,Asia Pacific,Premium,19.84,PayPal,No,Monthly,20.7,2,10,13,0,2,23,0.065300204,6.53,0,Active,Low,1.2955560445785523
+CUST_3790,31,Male,Europe,Standard,14.31,Direct Debit,Yes,Annual,11.5,4,3,6,0,0,24,0.23107891,23.11,0,Active,Low,3.3067391712963583
+CUST_2935,29,Female,Europe,Standard,13.61,PayPal,Yes,Monthly,9.1,4,7,10,0,4,35,0.20056215,20.06,0,Active,Low,2.7296508517861366
+CUST_2439,40,Male,North America,Premium,19.8,Credit Card,Yes,Monthly,16.6,4,9,12,1,2,17,0.10549755,10.55,0,Active,Low,2.088851420581341
+CUST_4165,23,Female,Latin America,Standard,13.27,Credit Card,No,Monthly,5.9,4,6,3,2,0,17,0.142819,14.28,0,Active,Low,1.8952081601321698
+CUST_3762,22,Female,Asia Pacific,Premium,19.87,PayPal,Yes,Annual,10.6,3,10,6,0,4,28,0.12220482,12.22,0,Active,Low,2.4282097303122283
+CUST_1649,59,Male,North America,Standard,14.07,Carrier Billing,No,Monthly,3.7,1,2,6,1,1,27,0.37786028,37.79,0,Active,Medium,5.316494109928608
+CUST_3603,47,Female,North America,Standard,13.95,Credit Card,Yes,Annual,9.2,4,4,10,0,5,34,0.30317208,30.32,0,Active,Medium,4.229250539839268
+CUST_3245,34,Male,North America,Standard,14.11,PayPal,No,Monthly,7.3,2,5,0,1,1,18,0.2709613,27.1,0,Active,Low,3.823264146745205
+CUST_1518,24,Female,Asia Pacific,Standard,14.14,Credit Card,Yes,Monthly,5.3,2,5,3,0,3,17,0.1844369,18.44,0,Active,Low,2.6079377999901774
+CUST_2714,41,Male,Asia Pacific,Premium,20.27,Carrier Billing,No,Annual,5.6,4,3,6,1,2,30,0.36859593,36.86,0,Active,Medium,7.471439459621906
+CUST_5190,46,Male,North America,Standard,13.41,Digital Wallet,Yes,Monthly,2.9,3,2,2,2,1,27,0.26814365,26.81,0,Active,Low,3.5958063983917237
+CUST_1014,47,Female,Asia Pacific,Premium,19.6,Credit Card,Yes,Annual,32.7,5,18,22,2,0,0,0.014957684,1.5,0,Active,Low,0.29317060820758345
+CUST_4763,52,Other,Asia Pacific,Basic,8.6,Carrier Billing,No,Annual,3.0,6,1,0,1,2,27,0.27047348,27.05,0,Active,Low,2.3260719299316404
+CUST_3849,28,Male,North America,Standard,14.51,Credit Card,No,Annual,10.1,4,10,7,2,1,13,0.06856441,6.86,0,Active,Low,0.9948695532232523
+CUST_3077,31,Male,Asia Pacific,Premium,19.98,PayPal,Yes,Monthly,10.1,3,6,4,1,1,19,0.247205,24.72,0,Active,Low,4.939155981838703
+CUST_1511,32,Female,Asia Pacific,Basic,7.9,Credit Card,Yes,Monthly,7.5,3,4,8,2,3,30,0.3953164,39.53,0,Active,Medium,3.1229994982481006
+CUST_5553,30,Female,Europe,Basic,7.65,PayPal,Yes,Annual,11.4,4,7,11,0,2,18,0.04841183,4.84,0,Active,Low,0.37035050913691525
+CUST_4363,42,Female,Latin America,Standard,13.64,Digital Wallet,Yes,Annual,4.8,3,4,6,1,1,19,0.22538583,22.54,0,Active,Low,3.0742627185583116
+CUST_3913,37,Male,Middle East & Africa,Standard,13.45,Digital Wallet,Yes,Annual,4.1,2,5,2,3,0,20,0.16970046,16.97,0,Active,Low,2.2824711687862873
+CUST_3114,29,Male,Asia Pacific,Standard,13.89,Digital Wallet,Yes,Annual,14.4,2,10,9,2,1,22,0.02110324,2.11,0,Active,Low,0.293124011233449
+CUST_1159,27,Female,North America,Standard,13.72,Direct Debit,Yes,Monthly,30.5,1,19,15,0,3,0,0.031994533,3.2,0,Active,Low,0.43896498993039135
+CUST_5794,32,Female,Latin America,Premium,19.99,PayPal,Yes,Monthly,4.6,3,3,2,1,3,35,0.76113784,76.11,1,Churned,High,15.21514548420906
+CUST_1687,29,Male,North America,Standard,14.17,Credit Card,Yes,Annual,7.3,2,4,8,0,2,20,0.18740706,18.74,0,Active,Low,2.6555580608546734
+CUST_3236,42,Female,Europe,Premium,19.47,PayPal,Yes,Annual,14.0,3,11,16,0,0,5,0.012841889,1.28,0,Active,Low,0.25003157305531204
+CUST_1144,34,Male,Asia Pacific,Standard,13.85,Credit Card,Yes,Monthly,5.7,3,6,5,1,2,13,0.109378636,10.94,0,Active,Low,1.5148941069841384
+CUST_3374,18,Male,Asia Pacific,Basic,7.65,Digital Wallet,Yes,Annual,6.7,6,4,0,1,0,16,0.0940769,9.41,0,Active,Low,0.7196882978081703
+CUST_1831,41,Male,North America,Standard,13.71,Direct Debit,Yes,Monthly,13.2,2,7,9,1,1,10,0.098614305,9.86,0,Active,Low,1.3520021250844003
+CUST_5099,62,Female,Asia Pacific,Standard,14.06,Direct Debit,Yes,Annual,2.5,1,7,6,0,0,17,0.07746786,7.75,0,Active,Low,1.0891980946063995
+CUST_5676,30,Female,North America,Basic,7.84,Direct Debit,Yes,Monthly,11.3,4,8,5,1,1,19,0.13991292,13.99,0,Active,Low,1.0969172787666321
+CUST_4333,18,Female,North America,Basic,7.94,Digital Wallet,Yes,Monthly,10.2,1,4,14,0,1,25,0.18519813,18.52,0,Active,Low,1.4704731380939484
+CUST_4400,43,Female,Europe,Standard,14.24,Direct Debit,Yes,Monthly,7.2,4,6,9,1,0,28,0.25257146,25.26,0,Active,Low,3.5966176414489746
+CUST_1115,20,Female,Middle East & Africa,Basic,7.75,PayPal,Yes,Monthly,2.2,2,4,3,0,1,12,0.14687791,14.69,0,Active,Low,1.1383038386702538
+CUST_1809,18,Male,North America,Standard,14.47,PayPal,Yes,Monthly,9.3,2,6,4,0,3,23,0.16702783,16.7,0,Active,Low,2.41689271569252
+CUST_5207,44,Male,Asia Pacific,Basic,8.11,Direct Debit,No,Annual,11.0,2,8,6,1,1,17,0.17419815,17.42,0,Active,Low,1.412747001647949
+CUST_5467,32,Female,Asia Pacific,Basic,7.94,Digital Wallet,Yes,Monthly,5.5,3,5,9,1,0,25,0.16341037,16.34,0,Active,Low,1.297478302717209
+CUST_2638,37,Male,Latin America,Premium,19.59,Carrier Billing,Yes,Monthly,13.9,3,11,8,1,0,11,0.035998814,3.6,0,Active,Low,0.7052167624980211
+CUST_2766,36,Male,Asia Pacific,Basic,7.78,PayPal,Yes,Monthly,5.4,4,3,10,1,0,19,0.1289195,12.89,0,Active,Low,1.0029936876893044
+CUST_3546,18,Male,Latin America,Standard,14.06,Credit Card,No,Monthly,6.1,3,4,8,1,0,23,0.22562091,22.56,0,Active,Low,3.172230001986027
+CUST_4943,32,Other,Europe,Basic,8.14,Credit Card,Yes,Annual,10.6,2,8,8,1,0,18,0.080785595,8.08,0,Active,Low,0.6575947423279286
+CUST_5001,30,Female,Europe,Standard,13.71,Credit Card,No,Monthly,8.6,1,4,5,0,1,29,0.5804278,58.04,1,Churned,Medium,7.957665486931801
+CUST_3478,25,Female,North America,Basic,8.04,Carrier Billing,Yes,Monthly,5.2,5,1,0,0,1,31,0.13539638,13.54,0,Active,Low,1.088586865067482
+CUST_4878,29,Female,North America,Premium,20.01,Direct Debit,Yes,Monthly,11.0,3,6,8,0,2,19,0.3592561,35.93,0,Active,Medium,7.1887143355608
+CUST_5554,38,Male,Asia Pacific,Standard,13.85,Credit Card,Yes,Monthly,8.3,1,5,8,1,1,25,0.3972142,39.72,0,Active,Medium,5.501416726410389
+CUST_5276,31,Male,Europe,Basic,8.15,Credit Card,Yes,Monthly,3.4,3,4,6,1,1,23,0.24771217,24.77,0,Active,Low,2.0188541457057
+CUST_4055,52,Female,Middle East & Africa,Standard,13.73,Credit Card,Yes,Monthly,4.5,4,1,8,0,2,24,0.27764803,27.76,0,Active,Low,3.812107475399971
+CUST_1266,35,Male,Asia Pacific,Basic,7.4,PayPal,No,Monthly,6.2,3,9,8,1,0,23,0.11542246,11.54,0,Active,Low,0.8541261851787567
+CUST_3393,48,Male,North America,Standard,14.23,Credit Card,No,Monthly,10.5,2,10,6,3,1,27,0.2148892,21.49,0,Active,Low,3.0578732952475547
+CUST_1460,40,Female,Asia Pacific,Standard,14.1,Credit Card,No,Monthly,9.1,2,6,4,0,3,13,0.1429906,14.3,0,Active,Low,2.016167517006397
+CUST_2385,21,Female,Europe,Premium,19.76,Digital Wallet,Yes,Monthly,18.5,5,11,16,2,0,11,0.02649123,2.65,0,Active,Low,0.5234667117893697
+CUST_2540,37,Female,Asia Pacific,Standard,14.65,PayPal,Yes,Monthly,13.8,1,6,3,3,0,17,0.07547402,7.55,0,Active,Low,1.1056943397969008
+CUST_2696,36,Male,North America,Standard,13.83,PayPal,Yes,Annual,8.1,3,4,4,1,1,26,0.17703442,17.7,0,Active,Low,2.4483860667049884
+CUST_5976,18,Female,Asia Pacific,Standard,14.16,Credit Card,No,Annual,8.5,4,7,5,0,1,14,0.1286083,12.86,0,Active,Low,1.821093546152115
+CUST_1917,40,Male,Latin America,Basic,8.13,PayPal,Yes,Monthly,11.6,5,8,11,2,0,21,0.10035981,10.04,0,Active,Low,0.8159252746403218
+CUST_2532,34,Female,North America,Basic,8.61,Credit Card,Yes,Annual,4.0,7,3,4,1,1,36,0.4154875,41.55,0,Active,Medium,3.577347358167171
+CUST_3848,20,Male,Middle East & Africa,Basic,7.91,PayPal,No,Monthly,11.6,3,11,7,0,0,28,0.05050036,5.05,0,Active,Low,0.3994578427448869
+CUST_2574,35,Male,Middle East & Africa,Premium,19.88,PayPal,Yes,Annual,13.8,7,7,5,2,2,22,0.074177384,7.42,0,Active,Low,1.4746464014053344
+CUST_5020,44,Female,North America,Standard,13.95,Digital Wallet,No,Monthly,4.6,1,2,6,1,0,25,0.5357282,53.57,1,Churned,Medium,7.4734086155891415
+CUST_3641,40,Male,North America,Standard,13.46,Credit Card,Yes,Monthly,5.6,7,9,8,2,2,29,0.20504019,20.5,0,Active,Low,2.759840912222862
+CUST_1618,46,Male,North America,Basic,7.78,PayPal,Yes,Monthly,12.7,5,9,10,1,0,10,0.04690137,4.69,0,Active,Low,0.3648926689475775
+CUST_5670,25,Male,Europe,Basic,7.7,Credit Card,No,Monthly,3.5,5,6,3,2,3,19,0.3196391,31.96,0,Active,Medium,2.461220967769623
+CUST_5274,40,Female,North America,Premium,19.61,Carrier Billing,Yes,Monthly,16.1,5,7,10,1,2,29,0.101605155,10.16,0,Active,Low,1.9924770811945198
+CUST_4844,22,Male,Asia Pacific,Standard,14.13,Digital Wallet,Yes,Monthly,9.1,3,8,6,0,1,4,0.040236637,4.02,0,Active,Low,0.5685436807572842
+CUST_2296,50,Female,Europe,Standard,14.59,Carrier Billing,Yes,Monthly,22.9,4,15,15,1,1,2,0.011231992,1.12,0,Active,Low,0.16387476902455092
+CUST_1580,19,Male,Asia Pacific,Basic,8.21,Credit Card,No,Monthly,17.6,2,8,10,2,0,15,0.06095999,6.1,0,Active,Low,0.5004815266653896
+CUST_5742,29,Female,Latin America,Basic,7.8,Credit Card,Yes,Monthly,8.6,1,5,6,2,2,14,0.22821638,22.82,0,Active,Low,1.78008776307106
+CUST_5107,39,Female,Middle East & Africa,Standard,14.44,PayPal,Yes,Monthly,10.8,3,8,8,1,1,24,0.12052168,12.05,0,Active,Low,1.7403330522775649
+CUST_4208,44,Female,Europe,Basic,8.35,Direct Debit,Yes,Monthly,2.4,2,2,2,1,0,34,0.3304948,33.05,0,Active,Medium,2.7596315070986748
+CUST_5733,58,Other,Europe,Basic,8.22,Credit Card,No,Annual,2.5,3,6,5,0,0,11,0.11799744,11.8,0,Active,Low,0.96993893802166
+CUST_5304,23,Female,Asia Pacific,Standard,14.36,PayPal,Yes,Monthly,14.8,5,7,12,3,1,17,0.057835054,5.78,0,Active,Low,0.8305113704502582
+CUST_3221,40,Female,Asia Pacific,Standard,14.12,Credit Card,Yes,Annual,2.7,2,3,7,0,2,36,0.6857625,68.58,1,Churned,High,9.682966847419738
+CUST_1931,25,Female,Europe,Basic,7.64,Credit Card,Yes,Annual,9.4,1,7,8,0,2,25,0.12641896,12.64,0,Active,Low,0.9658408778905868
+CUST_5508,18,Female,North America,Basic,8.08,PayPal,No,Annual,5.1,2,5,3,2,1,27,0.13436428,13.44,0,Active,Low,1.0856633591651916
+CUST_4035,38,Other,North America,Premium,19.4,Credit Card,Yes,Annual,8.1,3,5,4,1,1,23,0.31102,31.1,0,Active,Medium,6.03378774523735
+CUST_2196,26,Male,Latin America,Basic,8.02,Credit Card,No,Annual,7.7,1,5,5,2,3,31,0.274829,27.48,0,Active,Low,2.204128581881523
+CUST_4420,43,Male,North America,Premium,19.81,PayPal,Yes,Monthly,9.8,4,5,7,2,1,25,0.39166048,39.17,0,Active,Medium,7.758794142305851
+CUST_1149,29,Male,Europe,Standard,13.93,Carrier Billing,Yes,Monthly,8.4,5,7,3,3,0,19,0.1345741,13.46,0,Active,Low,1.8746172182261944
+CUST_2262,24,Female,Europe,Standard,14.58,Direct Debit,Yes,Annual,10.8,2,7,5,1,3,33,0.14352216,14.35,0,Active,Low,2.0925530675053596
+CUST_3742,30,Female,Europe,Premium,20.25,Credit Card,Yes,Monthly,30.2,2,15,17,2,2,0,0.022751065,2.28,0,Active,Low,0.4607090656645596
+CUST_4733,40,Female,Latin America,Standard,13.81,Digital Wallet,Yes,Monthly,8.0,6,6,8,2,4,33,0.2958941,29.59,0,Active,Low,4.086297332644463
+CUST_3723,41,Female,Asia Pacific,Standard,13.47,Credit Card,Yes,Annual,11.3,1,7,9,4,0,12,0.3257745,32.58,0,Active,Medium,4.388182391524315
+CUST_2911,34,Female,Europe,Basic,7.77,PayPal,Yes,Annual,2.2,3,1,3,0,0,22,0.06455115,6.46,0,Active,Low,0.5015624532848596
+CUST_4494,24,Female,Asia Pacific,Standard,14.03,Digital Wallet,Yes,Monthly,3.0,5,1,5,0,0,34,0.1687077,16.87,0,Active,Low,2.3669690111279484
+CUST_1244,31,Female,Asia Pacific,Standard,13.88,Credit Card,No,Monthly,2.5,4,7,5,2,1,26,0.40178928,40.18,0,Active,Medium,5.57683517575264
+CUST_5400,18,Female,Latin America,Standard,13.4,Credit Card,Yes,Monthly,11.3,4,5,10,1,1,20,0.21406369,21.41,0,Active,Low,2.868453434109688
+CUST_3904,41,Female,Asia Pacific,Premium,19.93,Credit Card,Yes,Monthly,11.4,3,9,5,2,2,17,0.29758978,29.76,0,Active,Low,5.930964293479919
+CUST_2264,37,Male,North America,Premium,20.68,Digital Wallet,Yes,Monthly,14.0,2,8,12,1,1,18,0.3520944,35.21,0,Active,Medium,7.281312437057495
+CUST_2787,26,Male,North America,Basic,7.9,Credit Card,Yes,Monthly,5.5,1,3,9,0,0,33,0.1885688,18.86,0,Active,Low,1.4896935254335404
+CUST_1583,29,Male,Asia Pacific,Basic,7.93,Credit Card,Yes,Annual,17.3,5,11,12,0,3,7,0.03124011,3.12,0,Active,Low,0.24773406717926263
+CUST_5778,42,Female,Middle East & Africa,Basic,7.83,Credit Card,Yes,Monthly,13.9,5,7,5,1,4,16,0.16534054,16.53,0,Active,Low,1.2946164500713349
+CUST_3110,37,Female,North America,Basic,7.76,PayPal,Yes,Monthly,2.9,4,5,9,2,1,29,0.22183779,22.18,0,Active,Low,1.7214612412452697
+CUST_3361,30,Female,Europe,Premium,19.89,Direct Debit,Yes,Monthly,12.0,3,8,7,1,2,15,0.17518857,17.52,0,Active,Low,3.4845006814599038
+CUST_4037,32,Female,North America,Standard,13.82,Digital Wallet,No,Annual,4.5,4,5,2,0,1,20,0.16656671,16.66,0,Active,Low,2.3019519963860513
+CUST_4849,40,Female,Asia Pacific,Basic,7.76,Credit Card,Yes,Annual,11.2,2,7,10,2,2,17,0.14871775,14.87,0,Active,Low,1.154049710035324
+CUST_2527,40,Female,Europe,Standard,14.28,Carrier Billing,Yes,Monthly,12.6,2,7,9,2,1,37,0.22294137,22.29,0,Active,Low,3.1836027467250823
+CUST_4662,25,Female,Asia Pacific,Premium,20.29,Credit Card,Yes,Monthly,8.5,1,4,6,1,0,23,0.35089523,35.09,0,Active,Medium,7.119664135575294
+CUST_4638,21,Male,Middle East & Africa,Basic,7.29,Credit Card,Yes,Annual,5.5,3,4,8,0,1,26,0.06679203,6.68,0,Active,Low,0.486913925036788
+CUST_4492,25,Female,Middle East & Africa,Basic,8.15,Direct Debit,Yes,Annual,16.5,3,14,8,0,0,18,0.016386453,1.64,0,Active,Low,0.1335495924577117
+CUST_5250,24,Male,North America,Premium,20.2,Credit Card,Yes,Monthly,11.5,2,7,13,0,1,13,0.28945395,28.95,0,Active,Low,5.84696986079216
+CUST_2093,18,Female,Latin America,Basic,8.05,Credit Card,No,Monthly,8.8,2,3,8,1,4,29,0.2456914,24.57,0,Active,Low,1.9778158001601698
+CUST_3230,29,Male,Middle East & Africa,Standard,14.19,Credit Card,Yes,Monthly,12.7,3,8,4,0,3,20,0.21655907,21.66,0,Active,Low,3.0729731659591195
+CUST_5235,18,Other,Europe,Basic,7.88,Credit Card,Yes,Annual,5.5,3,3,2,1,1,21,0.14052694,14.05,0,Active,Low,1.1073522514104843
+CUST_5814,22,Female,Middle East & Africa,Premium,20.21,Credit Card,Yes,Monthly,17.4,5,11,13,1,1,14,0.066448845,6.64,0,Active,Low,1.3429311568289997
+CUST_1094,44,Male,North America,Standard,14.34,Carrier Billing,Yes,Monthly,2.0,3,3,1,0,1,19,0.18981422,18.98,0,Active,Low,2.7219359841942787
+CUST_2955,50,Male,Middle East & Africa,Premium,19.59,Credit Card,Yes,Monthly,16.1,6,7,1,2,1,26,0.15360424,15.36,0,Active,Low,3.0091070464253424
+CUST_5662,46,Male,Latin America,Premium,19.72,Credit Card,No,Monthly,18.8,3,10,18,1,0,1,0.0022776024,0.23,0,Active,Low,0.04491432014852762
+CUST_4947,43,Male,North America,Basic,7.59,Direct Debit,Yes,Monthly,24.1,5,14,11,0,0,0,0.008835659,0.88,0,Active,Low,0.06706265456043184
+CUST_1384,26,Male,Asia Pacific,Standard,14.16,Credit Card,No,Monthly,13.6,4,11,6,0,4,16,0.03999371,4.0,0,Active,Low,0.5663109451532364
+CUST_1713,54,Female,North America,Premium,20.05,Direct Debit,Yes,Monthly,4.4,2,3,6,3,0,33,0.68910795,68.91,1,Churned,High,13.81661448776722
+CUST_4190,37,Female,Europe,Basic,8.21,Credit Card,Yes,Annual,9.1,2,5,11,1,0,15,0.085475765,8.55,0,Active,Low,0.7017560320347548
+CUST_4834,27,Male,Europe,Standard,14.4,PayPal,No,Monthly,6.5,3,1,7,1,1,28,0.19225192,19.23,0,Active,Low,2.768427658081055
+CUST_3596,43,Female,Latin America,Premium,20.42,Digital Wallet,Yes,Monthly,11.0,2,9,13,0,2,20,0.27395165,27.4,0,Active,Low,5.5940926861763005
+CUST_2516,32,Male,Latin America,Basic,8.66,Carrier Billing,Yes,Annual,8.6,3,6,5,0,1,22,0.13414179,13.41,0,Active,Low,1.1616678830981255
+CUST_4516,27,Female,North America,Standard,14.16,PayPal,No,Annual,4.6,2,2,4,2,1,22,0.24768782,24.77,0,Active,Low,3.5072594833374025
+CUST_2863,35,Female,Asia Pacific,Premium,20.51,Digital Wallet,Yes,Annual,3.8,5,2,3,0,2,24,0.25968462,25.97,0,Active,Low,5.326131603121758
+CUST_1079,37,Female,Europe,Standard,13.25,Credit Card,Yes,Monthly,11.7,2,7,13,2,1,32,0.4273029,42.73,0,Active,Medium,5.66176338493824
+CUST_2287,47,Male,Middle East & Africa,Standard,14.18,Carrier Billing,No,Monthly,5.8,1,5,2,0,0,18,0.20612767,20.61,0,Active,Low,2.9228904086351393
+CUST_5357,26,Male,Latin America,Premium,19.99,Direct Debit,Yes,Monthly,9.4,5,8,9,0,0,16,0.1681592,16.82,0,Active,Low,3.361502442806959
+CUST_5916,18,Male,Asia Pacific,Premium,19.96,PayPal,Yes,Annual,7.0,5,7,1,1,0,9,0.19388796,19.39,0,Active,Low,3.870003759264946
+CUST_1434,50,Female,Asia Pacific,Premium,20.16,Credit Card,Yes,Monthly,4.8,6,5,10,1,1,27,0.33200955,33.2,0,Active,Medium,6.693312606811523
+CUST_3332,28,Male,Latin America,Standard,13.88,Digital Wallet,No,Monthly,11.1,2,5,11,2,1,25,0.20820959,20.82,0,Active,Low,2.8899490970373156
+CUST_5054,23,Male,North America,Standard,13.64,Direct Debit,Yes,Annual,26.7,1,14,15,1,3,0,0.016606754,1.66,0,Active,Low,0.22651612035930158
+CUST_1666,25,Female,Europe,Standard,13.97,Credit Card,Yes,Monthly,6.8,4,4,9,0,0,17,0.2568969,25.69,0,Active,Low,3.5888498753309253
+CUST_4027,31,Female,North America,Basic,8.25,PayPal,Yes,Monthly,11.9,3,6,10,1,0,21,0.11273687,11.27,0,Active,Low,0.9300792049616575
+CUST_2245,25,Male,North America,Standard,13.9,Credit Card,No,Annual,10.3,1,6,7,1,1,17,0.06675824,6.68,0,Active,Low,0.9279395051300526
+CUST_5402,42,Male,North America,Standard,13.55,PayPal,No,Annual,1.3,5,2,7,0,1,21,0.40785378,40.79,0,Active,Medium,5.526418748497964
+CUST_5168,27,Female,North America,Standard,14.29,Carrier Billing,Yes,Annual,6.5,2,5,10,0,0,23,0.095634304,9.56,0,Active,Low,1.3666142039746045
+CUST_2061,29,Female,Asia Pacific,Premium,20.2,Credit Card,Yes,Monthly,11.6,6,4,2,2,1,25,0.2758642,27.59,0,Active,Low,5.57245711684227
+CUST_1213,34,Male,Europe,Basic,8.16,Carrier Billing,Yes,Monthly,4.7,3,2,5,0,1,33,0.4146221,41.46,0,Active,Medium,3.3833163213729858
+CUST_3161,20,Female,Europe,Standard,13.54,Credit Card,Yes,Monthly,11.5,3,8,11,2,0,24,0.25835645,25.84,0,Active,Low,3.4981463599205016
+CUST_5889,43,Male,Asia Pacific,Standard,13.1,Credit Card,Yes,Monthly,11.1,3,11,6,1,1,20,0.10874857,10.87,0,Active,Low,1.424606268107891
+CUST_3819,40,Female,Europe,Standard,14.4,PayPal,Yes,Monthly,11.6,2,8,10,1,0,14,0.091489196,9.15,0,Active,Low,1.31744441986084
+CUST_3460,49,Female,North America,Standard,13.82,Carrier Billing,Yes,Monthly,15.4,2,11,15,1,0,14,0.026141241,2.61,0,Active,Low,0.36127195328474043
+CUST_2381,52,Male,Asia Pacific,Standard,13.65,Digital Wallet,Yes,Monthly,7.1,3,5,3,0,1,14,0.063667476,6.37,0,Active,Low,0.8690610498189927
+CUST_5510,31,Male,Middle East & Africa,Basic,8.12,Credit Card,Yes,Monthly,2.8,2,5,3,1,2,20,0.24075972,24.08,0,Active,Low,1.9549688893556594
+CUST_1125,22,Female,North America,Basic,8.14,Digital Wallet,Yes,Monthly,12.6,1,9,9,1,1,4,0.031942736,3.19,0,Active,Low,0.260013873949647
+CUST_1517,33,Female,Middle East & Africa,Basic,8.21,Carrier Billing,Yes,Monthly,8.0,4,6,9,1,0,21,0.14633343,14.63,0,Active,Low,1.201397429406643
+CUST_1999,34,Male,North America,Premium,19.76,Carrier Billing,No,Annual,10.6,3,8,4,0,2,9,0.09722827,9.72,0,Active,Low,1.9212305420637132
+CUST_1946,27,Female,North America,Basic,7.33,Credit Card,Yes,Monthly,4.3,1,6,5,3,0,25,0.316193,31.62,0,Active,Medium,2.3176947954297065
+CUST_2285,39,Male,Middle East & Africa,Premium,19.82,Carrier Billing,No,Annual,5.4,6,1,12,1,1,29,0.27406812,27.41,0,Active,Low,5.432030081748962
+CUST_1042,23,Female,Middle East & Africa,Premium,19.87,Carrier Billing,Yes,Annual,10.0,2,6,6,0,0,19,0.112563916,11.26,0,Active,Low,2.236645001992583
+CUST_2649,19,Male,North America,Premium,20.12,Credit Card,Yes,Annual,6.9,4,6,5,0,1,15,0.1684591,16.85,0,Active,Low,3.389397142529488
+CUST_1587,28,Female,Middle East & Africa,Basic,8.16,Credit Card,Yes,Monthly,9.2,7,8,9,1,1,26,0.16181326,16.18,0,Active,Low,1.3203961944580078
+CUST_4179,42,Female,Europe,Basic,8.43,Credit Card,Yes,Annual,7.6,3,6,3,1,1,14,0.18421338,18.42,0,Active,Low,1.5529188354313372
+CUST_3985,49,Female,Europe,Basic,7.86,Credit Card,Yes,Annual,5.7,1,5,2,0,2,15,0.08578519,8.58,0,Active,Low,0.6742715759575367
+CUST_1885,51,Female,Middle East & Africa,Basic,8.66,Credit Card,Yes,Monthly,6.9,5,8,10,1,0,22,0.11759167,11.76,0,Active,Low,1.018343876451254
+CUST_3065,35,Male,Latin America,Standard,14.12,PayPal,Yes,Annual,4.6,5,5,4,0,1,26,0.11724055,11.72,0,Active,Low,1.6554365396499633
+CUST_3495,30,Female,North America,Premium,19.68,Digital Wallet,Yes,Monthly,10.3,2,5,9,2,1,22,0.2761941,27.62,0,Active,Low,5.435499801635742
+CUST_5362,28,Male,Europe,Standard,13.73,Credit Card,Yes,Annual,13.5,2,10,9,0,1,8,0.09651833,9.65,0,Active,Low,1.3251966746896506
+CUST_4133,33,Male,Middle East & Africa,Basic,7.4,PayPal,Yes,Monthly,15.8,4,9,12,2,0,12,0.02788928,2.79,0,Active,Low,0.20638066940009595
+CUST_1253,37,Male,Asia Pacific,Standard,13.99,Direct Debit,Yes,Annual,14.0,3,10,6,2,1,14,0.012518739,1.25,0,Active,Low,0.17513716319575906
+CUST_3468,40,Female,Europe,Standard,14.44,Direct Debit,Yes,Monthly,11.3,6,7,3,0,1,11,0.052989427,5.3,0,Active,Low,0.7651673258841037
+CUST_2547,38,Male,Europe,Basic,8.51,Carrier Billing,Yes,Monthly,4.8,5,3,2,0,1,8,0.12624007,12.62,0,Active,Low,1.0743030351400376
+CUST_3120,48,Female,Asia Pacific,Basic,8.02,Direct Debit,No,Monthly,2.2,2,2,2,0,1,29,0.26113552,26.11,0,Active,Low,2.094306858778
+CUST_3482,18,Female,North America,Basic,7.79,Credit Card,Yes,Annual,5.5,5,6,2,1,1,23,0.08179869,8.18,0,Active,Low,0.637211776226759
+CUST_4443,42,Male,North America,Basic,7.94,Credit Card,Yes,Monthly,8.3,2,3,5,2,0,18,0.23340936,23.34,0,Active,Low,1.8532703188061714
+CUST_5412,38,Male,Asia Pacific,Basic,7.75,Direct Debit,Yes,Monthly,7.0,2,5,6,0,1,24,0.22685502,22.69,0,Active,Low,1.7581264413893223
+CUST_3670,38,Female,Europe,Standard,14.26,Credit Card,Yes,Monthly,12.2,2,9,6,1,1,18,0.18736912,18.74,0,Active,Low,2.671883695423603
+CUST_1542,57,Female,Europe,Standard,14.32,Carrier Billing,Yes,Monthly,15.6,2,11,10,1,1,14,0.025070405,2.51,0,Active,Low,0.35900819435715675
+CUST_4897,28,Male,Asia Pacific,Basic,7.39,Direct Debit,No,Monthly,7.7,7,5,9,1,4,23,0.21231267,21.23,0,Active,Low,1.5689906206727027
+CUST_1899,38,Male,Asia Pacific,Basic,8.05,PayPal,Yes,Annual,9.0,3,7,8,0,4,44,0.061934844,6.19,0,Active,Low,0.4985754914581776
+CUST_1512,51,Female,Europe,Premium,20.55,Digital Wallet,Yes,Monthly,26.5,3,12,18,1,0,13,0.030230863,3.02,0,Active,Low,0.6212442350573838
+CUST_4233,25,Male,Europe,Standard,14.25,Credit Card,Yes,Monthly,5.2,5,3,10,0,2,28,0.23650363,23.65,0,Active,Low,3.370176739990711
+CUST_5745,42,Female,Asia Pacific,Basic,8.16,PayPal,No,Monthly,9.7,6,7,6,0,0,17,0.08253917,8.25,0,Active,Low,0.6735196352005005
+CUST_4405,39,Female,North America,Premium,19.93,Digital Wallet,Yes,Annual,11.4,4,7,6,2,0,21,0.15451123,15.45,0,Active,Low,3.0794087781012056
+CUST_5298,36,Female,Latin America,Standard,13.97,Credit Card,Yes,Monthly,4.1,6,2,5,0,0,11,0.30908197,30.91,0,Active,Medium,4.317875143885613
+CUST_5760,26,Female,North America,Premium,19.6,Carrier Billing,Yes,Monthly,9.3,4,7,7,1,1,17,0.13634767,13.63,0,Active,Low,2.6724142611026767
+CUST_2659,42,Male,North America,Standard,13.59,Credit Card,Yes,Monthly,5.5,3,5,0,0,2,23,0.25947893,25.95,0,Active,Low,3.526318613290787
+CUST_2369,27,Male,North America,Basic,7.82,PayPal,No,Monthly,13.9,5,10,6,2,1,8,0.02925341,2.93,0,Active,Low,0.2287616675719619
+CUST_1311,40,Female,Asia Pacific,Standard,13.62,PayPal,Yes,Monthly,24.1,2,16,23,0,1,5,0.05039086,5.04,0,Active,Low,0.6863234887272119
+CUST_4262,41,Female,Asia Pacific,Standard,14.19,Credit Card,No,Monthly,10.6,4,9,13,2,0,19,0.12930426,12.93,0,Active,Low,1.83482744961977
+CUST_5303,37,Female,North America,Premium,19.83,PayPal,Yes,Monthly,8.8,4,7,2,1,3,32,0.5284006,52.84,1,Churned,Medium,10.47818389713764
+CUST_4171,19,Female,Middle East & Africa,Premium,20.34,Digital Wallet,No,Monthly,6.1,1,4,5,1,1,12,0.20352562,20.35,0,Active,Low,4.139711064398289
+CUST_4002,34,Female,North America,Standard,13.79,Direct Debit,Yes,Monthly,4.2,3,3,6,0,1,16,0.2705511,27.06,0,Active,Low,3.7308994686603545
+CUST_5448,46,Female,Middle East & Africa,Standard,14.24,Credit Card,No,Annual,22.9,3,10,11,1,2,16,0.015894797,1.59,0,Active,Low,0.22634190499782564
+CUST_2430,39,Male,Middle East & Africa,Standard,14.43,Carrier Billing,Yes,Annual,7.4,2,5,5,0,1,23,0.18090624,18.09,0,Active,Low,2.6104769879579544
+CUST_2427,30,Male,Middle East & Africa,Basic,8.72,Digital Wallet,Yes,Monthly,28.6,3,17,17,1,2,19,0.020267408,2.03,0,Active,Low,0.1767318007349968
+CUST_4547,38,Male,Middle East & Africa,Standard,14.18,Direct Debit,Yes,Monthly,11.2,5,5,10,1,1,19,0.18703157,18.7,0,Active,Low,2.652107621431351
+CUST_3583,20,Female,Latin America,Basic,7.94,Direct Debit,Yes,Monthly,7.5,2,8,7,2,1,24,0.18973482,18.97,0,Active,Low,1.5064944434165954
+CUST_2416,20,Male,Middle East & Africa,Premium,19.59,PayPal,No,Annual,14.2,2,9,12,1,0,7,0.023599058,2.36,0,Active,Low,0.4623055538535118
+CUST_4312,34,Female,Middle East & Africa,Premium,20.2,PayPal,Yes,Monthly,10.3,4,5,4,2,2,20,0.20042276,20.04,0,Active,Low,4.048539829254151
+CUST_4419,37,Female,Middle East & Africa,Basic,7.9,Credit Card,Yes,Monthly,8.3,7,5,7,1,1,35,0.24007666,24.01,0,Active,Low,1.8966056227684023
+CUST_5494,44,Male,Asia Pacific,Basic,7.9,Credit Card,Yes,Monthly,21.1,4,11,13,0,2,28,0.017723702,1.77,0,Active,Low,0.14001724496483803
+CUST_1027,35,Female,Latin America,Standard,14.42,Direct Debit,No,Monthly,3.3,4,6,5,2,1,19,0.18418017,18.42,0,Active,Low,2.655878055691719
+CUST_3584,41,Male,Asia Pacific,Basic,8.36,PayPal,No,Annual,7.0,3,6,6,0,1,29,0.22813989,22.81,0,Active,Low,1.907249498963356
+CUST_2286,40,Female,Latin America,Premium,20.55,PayPal,Yes,Monthly,22.5,5,14,16,0,0,14,0.039861105,3.99,0,Active,Low,0.8191457156091929
+CUST_5504,33,Male,Europe,Standard,14.09,Carrier Billing,No,Annual,16.8,4,12,9,0,1,10,0.04660272,4.66,0,Active,Low,0.6566323041170835
+CUST_4964,27,Male,North America,Basic,7.79,Digital Wallet,Yes,Monthly,1.5,3,3,6,1,1,30,0.3491314,34.91,0,Active,Medium,2.7197336477041243
+CUST_3061,35,Male,North America,Premium,19.96,PayPal,No,Monthly,4.1,2,4,1,0,0,29,0.4884652,48.85,0,Active,Medium,9.749765191078186
+CUST_1810,27,Female,North America,Premium,20.2,Direct Debit,No,Monthly,15.3,6,11,8,2,2,16,0.15689062,15.69,0,Active,Low,3.169190439581871
+CUST_5854,22,Female,North America,Basic,7.56,Carrier Billing,Yes,Monthly,2.5,2,2,2,0,0,23,0.17001866,17.0,0,Active,Low,1.2853410547971724
+CUST_2442,39,Female,Europe,Basic,7.51,Direct Debit,Yes,Monthly,2.5,4,2,0,1,3,22,0.4335177,43.35,0,Active,Medium,3.255717885494232
+CUST_4611,47,Male,North America,Standard,13.35,PayPal,Yes,Monthly,15.4,4,9,14,1,4,12,0.06534886,6.53,0,Active,Low,0.872407329082489
+CUST_3324,21,Other,Asia Pacific,Basic,8.18,PayPal,No,Annual,4.8,2,1,6,2,1,37,0.47068313,47.07,0,Active,Medium,3.8501879841089246
+CUST_1594,33,Other,North America,Standard,14.16,Digital Wallet,No,Monthly,13.1,3,7,12,1,3,31,0.25833637,25.83,0,Active,Low,3.6580429315567016
+CUST_2226,30,Female,Latin America,Premium,20.1,Credit Card,Yes,Monthly,10.1,5,9,8,0,4,14,0.30602682,30.6,0,Active,Medium,6.151139008998872
+CUST_4406,33,Male,Asia Pacific,Premium,20.24,Digital Wallet,No,Monthly,12.1,4,7,7,1,0,15,0.07543909,7.54,0,Active,Low,1.526887142062187
+CUST_4582,42,Other,Latin America,Premium,19.8,Credit Card,Yes,Annual,23.6,6,14,18,0,0,11,0.014851134,1.49,0,Active,Low,0.2940524585545063
+CUST_5918,32,Male,North America,Standard,14.19,Credit Card,Yes,Monthly,6.0,2,7,2,1,3,33,0.31804496,31.8,0,Active,Medium,4.513057989478111
+CUST_5292,53,Male,Europe,Basic,7.62,Direct Debit,No,Monthly,12.0,6,10,12,1,2,11,0.03801615,3.8,0,Active,Low,0.28968307547271255
+CUST_5720,21,Female,Europe,Basic,7.82,PayPal,Yes,Annual,10.8,3,6,5,0,3,24,0.06842897,6.84,0,Active,Low,0.5351145522296429
+CUST_1886,26,Male,Middle East & Africa,Standard,13.87,Credit Card,No,Monthly,2.6,3,5,2,1,1,28,0.3050127,30.5,0,Active,Medium,4.230526189804077
+CUST_3283,33,Female,North America,Basic,8.07,Direct Debit,No,Monthly,9.5,4,8,4,1,2,26,0.20735863,20.74,0,Active,Low,1.6733841320872307
+CUST_4191,42,Other,Europe,Basic,8.47,PayPal,Yes,Monthly,14.8,2,9,12,2,3,19,0.1341299,13.41,0,Active,Low,1.136080225557089
+CUST_5856,32,Male,Asia Pacific,Premium,19.94,Direct Debit,Yes,Monthly,7.5,3,4,12,3,0,25,0.43375453,43.38,0,Active,Medium,8.649065398573876
+CUST_1791,46,Male,Asia Pacific,Basic,8.17,Digital Wallet,Yes,Annual,3.3,2,2,3,3,0,21,0.19896057,19.9,0,Active,Low,1.6255078771710396
+CUST_2556,40,Male,Middle East & Africa,Standard,14.11,Carrier Billing,Yes,Annual,8.2,2,6,8,0,1,20,0.11696791,11.7,0,Active,Low,1.6504171965271235
+CUST_4464,34,Male,Europe,Basic,7.56,Direct Debit,Yes,Annual,10.0,4,9,6,0,1,13,0.02545651,2.55,0,Active,Low,0.19245121926069259
+CUST_5661,37,Female,Asia Pacific,Standard,14.13,Credit Card,Yes,Monthly,10.5,5,6,10,0,2,26,0.10562791,10.56,0,Active,Low,1.4925223584473133
+CUST_5442,40,Female,North America,Basic,8.27,Digital Wallet,Yes,Monthly,17.8,3,9,7,2,2,0,0.0045351237,0.45,0,Active,Low,0.03750547304749489
+CUST_5960,44,Female,Asia Pacific,Standard,14.02,Direct Debit,Yes,Monthly,12.7,4,9,14,1,0,17,0.05624532,5.62,0,Active,Low,0.7885593800246715
+CUST_5130,34,Female,Europe,Premium,19.1,PayPal,Yes,Monthly,21.1,2,13,13,0,1,12,0.04032308,4.03,0,Active,Low,0.7701708018779755
+CUST_1537,31,Male,Latin America,Standard,13.41,Direct Debit,No,Monthly,10.5,4,7,3,1,0,24,0.19286953,19.29,0,Active,Low,2.586380385607481
+CUST_2947,30,Male,Latin America,Basic,8.4,Direct Debit,Yes,Annual,15.5,4,9,9,0,0,8,0.06933451,6.93,0,Active,Low,0.5824098587036133
+CUST_5864,42,Female,Asia Pacific,Standard,13.57,Direct Debit,Yes,Annual,3.8,2,6,8,0,2,25,0.22665758,22.67,0,Active,Low,3.0757434190809727
+CUST_2474,20,Female,Europe,Standard,14.71,Direct Debit,No,Annual,6.1,1,5,8,0,0,22,0.14153148,14.15,0,Active,Low,2.081928105205298
+CUST_3350,47,Male,Asia Pacific,Basic,7.66,PayPal,Yes,Annual,2.0,2,1,5,0,0,18,0.09323364,9.32,0,Active,Low,0.7141696633398533
+CUST_4253,31,Female,North America,Basic,7.92,Credit Card,Yes,Annual,7.9,2,8,3,1,1,18,0.11027745,11.03,0,Active,Low,0.873397416472435
+CUST_4783,27,Female,North America,Premium,20.09,Carrier Billing,Yes,Monthly,4.3,2,6,0,3,1,18,0.3296941,32.97,0,Active,Medium,6.623554313778877
+CUST_5273,32,Male,Middle East & Africa,Premium,19.93,Credit Card,Yes,Monthly,19.7,3,14,9,2,3,20,0.039550517,3.96,0,Active,Low,0.7882417989149689
